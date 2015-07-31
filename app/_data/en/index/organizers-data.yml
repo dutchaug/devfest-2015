@@ -1,10 +1,10 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Dutch Android User Group", description: "Everything Android", link: "http://www.dutchaug.org", imageUrl: "dutchandroid.jpg", width: "300px"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Kyiv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "GDG Netherlands", description: "GDG Netherlands - General Google Tech community", link: "http://www.gdgnetherlands.org/", imageUrl: "gdg-nl.jpg", width: "120px"}
+    - {name: "The Dutch AngularJS Group", description: "Aimed at all professionals from The Netherlands who want to talk everything AngularJS", link: "http://www.meetup.com/Dutch-AngularJS-group/", imageUrl: "dutch-angularjs-group.jpeg", width: "120px"}
+    - {name: "Golang Amsterdam", description: "", link: "http://www.meetup.com/golang-amsterdam/", imageUrl: "golang-amsterdam.jpeg", width: "120px"}

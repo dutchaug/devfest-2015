@@ -1,8 +1,9 @@
 image: "hero.jpg"
 title: "GDG DevFest <typeout> 2015"
-eventDate: "10 October, 2015"
+eventDate: "10/10/2015"
 typeoutTextValues: '"", "The Netherlands", "Amsterdam"'
 typeoutFallback: "Season"
 buttons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/XZtwsE", text: "Become a speaker"}
+ - {link: "mailto:info@devfest.nl?subject=I+am+interested+in+sponsoring+the+GDG+DevFest+2015", text: "Become a sponsor"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
