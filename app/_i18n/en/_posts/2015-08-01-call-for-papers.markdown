@@ -4,7 +4,7 @@ title:  "Call for Papers"
 date:   2015-08-01 09:00:00
 isStaticPost: false
 ---
-GDG Devfest Netherlands 2015 will be held on Saturday October 10th at the University of Amsterdam. If you want to be part of this great event as a speaker you knocked on the right door.
+GDG Devfest Netherlands 2015 will be held on Saturday October 10th at the University of Amsterdam. If you want to be part of this great event as a speaker you are invited to submit your Call for Paper as of today!
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -13,7 +13,7 @@ GDG Devfest Netherlands 2015 will be held on Saturday October 10th at the Univer
 * Research institutions with Google relevant activities
 * Companies, organisations and individuals using Google technologies
 
-If you belong to one of those groups and if you are a leading expert in Google technologies like Android, Google Cloud, AngularJS, Polymer, Go, The Physical Web, etc. you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+If you belong to one of those groups and if you are a leading expert in Google technologies like Android, Google Cloud, AngularJS, Polymer, Go, The Physical Web, etc. you are cordially invited to submit a talk proposal (or a number of proposals).<br/>
 
 #### Please submit your proposals [here](https://goo.gl/XZtwsE).
 The deadline for submitting your CfP is Friday September 18th, 2015
