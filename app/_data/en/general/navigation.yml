@@ -1,5 +1,6 @@
 links:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/#subscribe", text: "Subscribe for updates"}
  - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
