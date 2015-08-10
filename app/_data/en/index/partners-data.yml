@@ -10,3 +10,4 @@
   group: "Partners"
   elements: 
     - {name: "Egeniq", description: "Egeniq", link: "http://www.egeniq.com/", imageUrl: "egeniq.png"}
+    - {name: "Amsterdam eWeek", description: "Internationl festival for on-line business, media, marketing and technology.", link: "http://amsterdameweek.nl", imageUrl: "amsterdam-eweek.png"}
