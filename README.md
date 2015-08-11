@@ -1,4 +1,4 @@
-Grunt version of Project Zeppelin / GDG DevFest 2014 site template
+Grunt version of Project Zeppelin / GDG DevFest 2014 site template, used by DevFestNL
 =============
 
 ### About 
