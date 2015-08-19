@@ -1,44 +1,44 @@
 title: "Pricetable"
-info: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+info: "Tickets grant access to all conference sessions, code labs, lunch and after party!"
 offers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
-  info: "Before 30 September 2014 23:59 or 150 tickets"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  info: "450 tickets"
-  disabled: true
-  fallback: "Ticket sales will begin on 1 October 2014 00:00"
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  info: "Before 23 October 2014 23:59 or 50 tickets"
-  soldOut: true
-  soldOutText: "Sold Out"
+  name: "Early Bird ticket"
+  price: "&euro;0,-"
+  priceCurrency: "(That's cheap!)"
+  ticketsNumber: "300"
+  ribbon: "FREE"
+  buyButtonLink: "https://goo.gl/Hvg2xp"
+  buyButtonText: "Get your free Early Bird ticket here!"
+  ticketContentList: ["Tickets grant access to all conference sessions and code labs","Free coffee, tea, drinks & snacks througout the day","A tasty lunch and an excellent after party!"]
+  validFrom: "2015-08-24T10:00"
+  validThrough: "2015-10-09T23:59"
+  info: "Before 9 October 2015 23:59 or 300 tickets"
+ # -
+ #  name: "Last Chance"
+ #  price: "450"
+ #  priceCurrency: "UAH"
+ #  ticketsNumber: "100"
+ #  ribbon: "-20%"
+ #  featured: true
+ #  buyButtonLink: "http://dfua.ticketforevent.com/"
+ #  buyButtonText: "Buy Now"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2014-10-01T00:00"
+ #  validThrough: "2014-10-23T23:59"
+ #  info: "450 tickets"
+ #  disabled: true
+ #  fallback: "Ticket sales will begin on 1 October 2014 00:00"
+ # -
+ #  name: "Student"
+ #  price: "200"
+ #  priceCurrency: "UAH"
+ #  ticketsNumber: "50"
+ #  buyButtonLink: "http://dfua.ticketforevent.com/"
+ #  buyButtonText: "Buy Now"
+ #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2014-08-20T10:00"
+ #  validThrough: "2014-10-23T23:59"
+ #  info: "Before 23 October 2014 23:59 or 50 tickets"
+ #  soldOut: true
+ #  soldOutText: "Sold Out"

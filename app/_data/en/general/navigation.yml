@@ -2,6 +2,7 @@ links:
  - {permalink: "/", text: "Home"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/#partners", text: "Partners"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
@@ -15,7 +16,7 @@ links:
 #    - {link: "https://facebook.com/GDGLviv", text: "GDGLviv"}
 bottomLinks:
  - {link: "https://goo.gl/XZtwsE", text: "Become a speaker"}
- - {link: "mailto:info@devfest.nl?subject=I+am+interested+in+sponsoring+the+GDG+DevFest+2015", text: "Become a sponsor"}
+ - {permalink: "/#tickets", text: "Get your ticket!"}
 rightButtons:
  - {link: "https://goo.gl/XZtwsE", text: "Become a speaker"}
- - {link: "mailto:info@devfest.nl?subject=I+am+interested+in+sponsoring+the+GDG+DevFest+2015", text: "Become a sponsor"}
+ - {permalink: "/#tickets", text: "Get your ticket!"}
