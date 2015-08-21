@@ -8,8 +8,8 @@ offers:
   ticketsNumber: "300"
   ribbon: "FREE"
   buyButtonLink: "https://goo.gl/Hvg2xp"
-  buyButtonText: "Get your free Early Bird ticket here!"
-  ticketContentList: ["Tickets grant access to all conference sessions and code labs","Free coffee, tea, drinks & snacks througout the day","A tasty lunch and an excellent after party!"]
+  buyButtonText: "Register your free Early Bird ticket here!"
+  ticketContentList: ["Registration starts on Monday August 24th at 10:00 am sharp!", "Registration grants access to all conference sessions and code labs","Free coffee, tea, drinks & snacks througout the day","A tasty lunch and an excellent after party!"]
   validFrom: "2015-08-24T10:00"
   validThrough: "2015-10-09T23:59"
   info: "Before 9 October 2015 23:59 or 300 tickets"
