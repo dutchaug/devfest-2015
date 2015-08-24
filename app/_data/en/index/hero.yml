@@ -4,6 +4,6 @@ eventDate: "10/10/2015"
 typeoutTextValues: '"", "The Netherlands", "Amsterdam"'
 typeoutFallback: "Season"
 buttons:
- - {permalink: "/#tickets", text: "Register here!"}
+ - {permalink: "/#tickets", text: "Ticket info"}
  - {link: "https://goo.gl/XZtwsE", text: "Become a speaker"}
 # - {link: "mailto:info@devfest.nl?subject=I+am+interested+in+sponsoring+the+GDG+DevFest+2015", text: "Become a sponsor"}

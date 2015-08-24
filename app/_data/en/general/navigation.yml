@@ -16,7 +16,7 @@ links:
 #    - {link: "https://facebook.com/GDGLviv", text: "GDGLviv"}
 bottomLinks:
  - {link: "https://goo.gl/XZtwsE", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register here!"}
+ - {permalink: "/#tickets", text: "Ticket info"}
 rightButtons:
  - {link: "https://goo.gl/XZtwsE", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register here!"}
+ - {permalink: "/#tickets", text: "Ticket info"}
