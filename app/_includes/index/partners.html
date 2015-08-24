@@ -6,7 +6,7 @@
             <a href="{{ site.data.[site.lang].index.partners.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.data.[site.lang].index.partners.c4sponsorsButton }}</a>
             {% for partner in site.data.[site.lang].index.partners-data %}
             <h5>{{ partner.group }}</h5>
-            <ul class="list-inline">
+            <ul class="list-inline {{ partner.class }}">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">

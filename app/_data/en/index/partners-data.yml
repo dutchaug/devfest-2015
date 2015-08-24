@@ -1,13 +1,21 @@
 - 
   group: "Main Sponsor"
+  class: "main"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "500px"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+- 
+  group: "Silver Sponsor"
+  class: "platinum"
+  elements: 
+    - {name: "Bol.com", description: "Bol.com de winkel van ons allemaal", link: "https://banen.bol.com", imageUrl: "bol-com.jpg"}
 - 
   group: "With support of"
+  class: "bronze"
   elements: 
     - {name: "Minor", description: "Minor Programmeren", link: "http://www.mprog.nl/cursussen/", imageUrl: "minor.png"}
 - 
   group: "Partners"
+  class: "bronze"
   elements: 
     - {name: "Egeniq", description: "Egeniq", link: "http://www.egeniq.com/", imageUrl: "egeniq.png"}
     - {name: "Amsterdam eWeek", description: "Internationl festival for on-line business, media, marketing and technology.", link: "http://amsterdameweek.nl", imageUrl: "amsterdam-eweek.png"}
