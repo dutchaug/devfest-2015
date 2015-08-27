@@ -3,11 +3,11 @@
   class: "main"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-# -
-#   group: "Gold Sponsor"
-#   class: "gold"
-#   elements:
-#     - {name: "The Capitals", description: "The Capitals - Team of digital creatives", link: "http://www.thecapitals.nl/", imageUrl: "thecapitals.png"}
+-
+  group: "Gold Sponsor"
+  class: "gold"
+  elements:
+    - {name: "The Capitals", description: "The Capitals - Team of digital creatives", link: "http://www.thecapitals.nl/", imageUrl: "thecapitals.png"}
 - 
   group: "Silver Sponsors"
   class: "silver"
