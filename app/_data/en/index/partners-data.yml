@@ -4,6 +4,11 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 -
+  group: "Platinum Sponsor"
+  class: "main"
+  elements:
+    - {name: "Triple IT", description: "Triple IT", link: "http://triple-it.nl/", imageUrl: "triple-it.png"}
+-
   group: "Gold Sponsor"
   class: "gold"
   elements:
