@@ -13,6 +13,11 @@
   class: "gold"
   elements:
     - {name: "The Capitals", description: "The Capitals - Team of digital creatives", link: "http://www.thecapitals.nl/", imageUrl: "thecapitals.png"}
+-
+  group: "After Party Sponsor"
+  class: "gold"
+  elements:
+    - {name: "IceMobile", description: "IceMobile - Adding emotion to transactional Loyalty", link: "https://www.icemobile.com", imageUrl: "icemobile.png"}
 - 
   group: "Silver Sponsors"
   class: "silver"

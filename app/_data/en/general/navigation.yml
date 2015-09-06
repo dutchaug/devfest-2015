@@ -1,8 +1,9 @@
 links:
  - {permalink: "/", text: "Home"}
- - {permalink: "/#subscribe", text: "Subscribe for updates"}
+ - {permalink: "/#subscribe", text: "Subscribe"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#partners", text: "Partners"}
+ - {permalink: "/afterparty/", text: "After Party"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
