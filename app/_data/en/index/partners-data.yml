@@ -25,6 +25,11 @@
     - {name: "Bol.com", description: "Bol.com de winkel van ons allemaal", link: "https://banen.bol.com", imageUrl: "bol-com.jpg"}
     - {name: "Luminis", description: "Luminis - Conversing Worlds", link: "https://arnhem.luminis.eu/", imageUrl: "luminis.jpg"}
 - 
+  group: "Bronze Sponsor"
+  class: "bronze"
+  elements: 
+    - {name: "Nubis", description: "Nubis Digital Agency", link: "http://nub.is/", imageUrl: "nubis.png"}
+- 
   group: "With support of"
   class: "bronze"
   elements: 
