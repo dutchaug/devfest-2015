@@ -48,6 +48,21 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/Cstew"}
+
+-
+  id: 6
+  name: "Vitaliy"
+  surname: "Zasadnyy"
+  company: "GetSocial"
+  bio: "Vitaliy is a mobile developer, public speaker and community manager. He is eager about product perfection and scalability. Goes crazy about new IoT devices and Google products.
+
+        Originally Vitaliy is from Ukraine, where he founded GDG Lviv. Now he is leading a development of the Android, iOS and Unity SDKs at GetSocial, startup based in The Hague. GetSocial is building the cloud-based mobile engagement platform that empowers any app developer with tools to maximise user acquisition, engagement, retention and monetization."
+  thumbnailUrl: vitaliy.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
 #-
 #  id: 4
 #  name: "Dmytro"
