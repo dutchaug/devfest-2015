@@ -4,11 +4,7 @@
   surname: "Weiss"
   company: "Google"
   title: "Developer Programs Engineer"
-  bio: "Ben is a Developer Programs Engineer at Google in London, working to improve Android Developers’ lives.
-        Since 2009 he’s been involved with developing on Android, writing apps for several companies and organizations.
-        He also used to organize the Berlin Android community, co-organized several bigger events and presented on various Android related topics.
-
-        Recently he developed Topeka for Android, a material design showcase. Further Ben is the developer behind the Crouton library for Android and held a Guinness World Record."
+  bio: "Ben is a Developer Programs Engineer at Google located in London. Here he works to make Android Developer’s live better. Since 2009 he involved with Android, creating apps for several companies and organizations. Ben used to organize the Berlin Android community, co-organized several bigger events and presented on various Android related topics. Recently Ben developed Topeka for Android, a material design showcase. Further Ben is the developer behind the Crouton library for Android and held a Guinness World Record."
   thumbnailUrl: BenWeiss.jpg
   rockstar: true
   social: 
@@ -49,20 +45,70 @@
   social:
     - {name: "twitter", link: "https://twitter.com/Cstew"}
 
--
-  id: 6
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  company: "GetSocial"
-  bio: "Vitaliy is a mobile developer, public speaker and community manager. He is eager about product perfection and scalability. Goes crazy about new IoT devices and Google products.
+#-
+#  id: 6
+#  name: "Vitaliy"
+#  surname: "Zasadnyy"
+#  company: "GetSocial"
+#  bio: "Vitaliy is a mobile developer, public speaker and community manager. He is eager about product perfection and scalability. Goes crazy about new IoT devices and Google products.
+#
+#        Originally Vitaliy is from Ukraine, where he founded GDG Lviv. Now he is leading a development of the Android, iOS and Unity SDKs at GetSocial, startup based in The Hague. GetSocial is building the cloud-based mobile engagement platform that empowers any app developer with tools to maximise user acquisition, engagement, retention and monetization."
+#  thumbnailUrl: vitaliy.jpg
+#  rockstar: true
+#  social:
+#    - {name: "site", link: "http://zasadnyy.com/"}
+#    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+#    - {name: "github", link: "https://github.com/zasadnyy"}
 
-        Originally Vitaliy is from Ukraine, where he founded GDG Lviv. Now he is leading a development of the Android, iOS and Unity SDKs at GetSocial, startup based in The Hague. GetSocial is building the cloud-based mobile engagement platform that empowers any app developer with tools to maximise user acquisition, engagement, retention and monetization."
-  thumbnailUrl: vitaliy.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "http://zasadnyy.com/"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
+#-
+#  id: 7
+#  name: "Martin"
+#  surname: "Naumann"
+#  company: "Archilogic"
+#  bio: "Martin is open source contributor and web evangelist by heart from Zurich
+#         with a decade experience from the trenches of software engineering in multiple fields.
+#
+#         He works as a software engineer at Archilogic in front- and backend.
+#         He devotes his time to moving the web forward, fixing problems, building applications and systems
+#         and breaking things for fun & profit.
+#
+#         Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper."
+#  thumbnailUrl: martin_naumann.jpg
+#  rockstar: true
+#  social:
+#    - {name: "site", link: "http://geekonaut.de/"}
+#    - {name: "twitter", link: "https://twitter.com/g33konaut"}
+#
+
+#-
+#  id: 8
+#  name: "Gerard"
+#  surname: "Sans"
+#  company: ""
+#  bio: "Gerard is a multi-talented Computer Science Engineer specialised in Web. He is now an AngularJS fanboy and a community activist fighting for the JavaScript revolution. He has lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. He is always up for a good challenge.
+#        He enjoys running AngularJS Labs London, mentoring AngularJS students, participating in the community, giving talks and writing technical articles at Medium. "
+#  thumbnailUrl: gerard_sans.jpg
+#  rockstar: true
+#  social:
+#    - {name: google-plus", link: "https://plus.google.com/u/0/117176235968324959535"}
+#    - {name: "twitter", link: "https://twitter.com/gerardsans"}
+#    - {name: "site", link: "https://medium.com/@gerard.sans"}
+#
+#-
+#  id: 9
+#  name: "Frank"
+#  surname: "van Puffelen"
+#  company: "Google"
+#  bio: "Frank is an engineer for Firebase at Google. He helps developers build extraordinary apps that use Firebase as their back-end. If you've ever asked a Firebase question on StackOverflow, you've probably met Frank already."
+#  thumbnailUrl: frank_puffelen.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/puf"}
+#    - {name: "stack-overflow", link: "http://stackoverflow.com/users/209103/"}
+#    - {name: "github", link: "https://github.com/puf"}
+#
+
+
 #-
 #  id: 4
 #  name: "Dmytro"
