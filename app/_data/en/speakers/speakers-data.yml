@@ -92,7 +92,7 @@
   social:
     - {name: google-plus", link: "https://plus.google.com/u/0/117176235968324959535"}
     - {name: "twitter", link: "https://twitter.com/gerardsans"}
-    - {name: "site", link: "https://medium.com/@gerard.sans"}
+#    - {name: "site", link: "https://medium.com/@gerard.sans"}
 
 -
   id: 9
