@@ -90,7 +90,7 @@
   thumbnailUrl: gerard_sans.jpg
   rockstar: true
   social:
-    - {name: google-plus", link: "https://plus.google.com/u/0/117176235968324959535"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/117176235968324959535"}
     - {name: "twitter", link: "https://twitter.com/gerardsans"}
     - {name: "site", link: "https://medium.com/@gerard.sans"}
 
