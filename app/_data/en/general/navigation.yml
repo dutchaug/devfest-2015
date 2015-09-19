@@ -16,8 +16,6 @@ links:
 #    - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", text: "@GDGLviv"}
 #    - {link: "https://facebook.com/GDGLviv", text: "GDGLviv"}
 bottomLinks:
- - {link: "https://goo.gl/XZtwsE", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Ticket info"}
 rightButtons:
- - {link: "https://goo.gl/XZtwsE", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Ticket info"}

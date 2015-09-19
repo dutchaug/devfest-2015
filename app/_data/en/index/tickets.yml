@@ -15,14 +15,14 @@ offers:
   info: "Before 9 October 2015 23:59 or 300 tickets"
  -
   name: "Lazy Bird ticket"
-  price: "Stay tuned!"
+  price: "This Monday!"
   priceCurrency: ""
   ticketsNumber: "60"
-  ribbon: "Soon!"
+  ribbon: "10:00AM"
   buyButtonLink: "https://goo.gl/Hvg2xp"
   buyButtonText: "Lazy Bird ticket info!"
-  ticketContentList: ["Stay tuned for lazy bird tickets"]
-  validFrom: "2015-09-07T10:00"
+  ticketContentList: ["Registration starts Monday September 21st at 10:00AM sharp!"]
+  validFrom: "2015-09-21T10:00"
   validThrough: "2015-10-09T23:59"
   info: "Before 9 October 2015 23:59 or 300 tickets"
  # -
