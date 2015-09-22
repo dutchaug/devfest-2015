@@ -30,7 +30,7 @@ We believe that a primary cause is perception. A vicious cycle occurs when a gen
 As a sizable event in technology, we found it in part our responsibility to encourage diversity at GDG DevFest The Netherlands. We've taken three distinct approaches:
 
 * Providing women an extra opportunity to obtain much wanted tickets to increase female attendance ([the promo code is still available!](https://www.eventbrite.com/e/gdg-devfest-the-netherlands-2015-tickets-18232000404?access=women-in-tech));
-* Arranging for WTM lead Victoria Sinikliyski to address the topic during a heartfelt speech during the afternoon break;
+* Arranging for WTM Thessaloniki member Victoria Sinikliyski to address the topic during a heartfelt speech during the afternoon break;
 * Encouraging women to speak up and be role models to inspire others.
 
 This has been made possible through the efforts of our committee members and with thanks to the following women communities:
