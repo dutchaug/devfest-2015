@@ -1,1 +1,2 @@
-showSessions: true
+# hide the sessions for now
+showSessions: false
