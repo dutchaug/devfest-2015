@@ -5,9 +5,78 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 21 Sep 2015 07:50:06 +0200</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2015 07:50:06 +0200</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2015 11:37:54 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2015 11:37:54 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Changing the Perception of Women in Tech</title>
+        <description>&lt;p&gt;You might have noticed we’re promoting tickets for women in tech. Why’s that?&lt;/p&gt;
+
+&lt;h4 id=&quot;women-are-underrepresented-in-it&quot;&gt;Women are underrepresented in IT.&lt;/h4&gt;
+
+&lt;p&gt;When tickets first opened up for DevFest, only 21 of the first batch of 300 tickets were registered by women. If that wasn’t bad enough, two cancellations brought that number to a meager 6%.&lt;/p&gt;
+
+&lt;p&gt;The cause of this seems to resonate with the lack of diversity in academia and the workplace in the Netherlands. &lt;a href=&quot;http://www.vhto.nl/fileadmin/user_upload/images/Cijfers_en_onderzoek/20150605_Gediplomeerden_totaal_htno_per_opleiding_1415.pdf&quot;&gt;According to VHTO (link to PDF)&lt;/a&gt;, only 3.5% of students studying computer science in 2014 at a professional level are women (30 of 861), with a more startling number of 2.7% (8 of 297) in technical computer science. While slightly better at academic level (7.4% and 6.8%, respectively), one can nevertheless only ponder the reason of this imbalance.&lt;/p&gt;
+
+&lt;p&gt;While opinions may vary, there are a few different reasons why we and others think that gender diversity is important:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diversity of thought and essential skills, as women bring different perspectives and knowledge. There is a pool of talent with experience and expertise that has remained almost untapped.&lt;/li&gt;
+  &lt;li&gt;Changing the perception of which interests males and females are &lt;em&gt;expected&lt;/em&gt; to have addresses a much larger problem of the mismatch between equal levels of capability and achievement in math and science, and the very different career choices men and women make. Research has shown that parents provide boys and girls with different experiences through the toys they receive and the ways in which praise is given.&lt;/li&gt;
+  &lt;li&gt;Encouraging rolemodels to show that computer scientists can put their skills to the greater good can encourage adolescent females to consider it as a field that has a large societal impact. It has been shown that this demographic leans towards biological and medical sciences for this very reason.&lt;/li&gt;
+  &lt;li&gt;Females tend to have a higher social intelligence score, working better in teams and leading teams than their male colleagues.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In practice, better balanced product teams tend to produce products with a competitive adge that are suited to a larger portion of the population.&lt;/p&gt;
+
+&lt;p&gt;The diversity of experiences, ideas, and social intelligence, and a detailed response to various criticisms of positive discrimination is addressed in &lt;em&gt;A Practical Guide to Gender Diversity for Computer Science Faculty&lt;/em&gt;. You can find &lt;a href=&quot;http://www.csee.umbc.edu/courses/undergraduate/CMSC304/Fall2014/PracticalGuideGenderDiversity-Ch2.pdf&quot;&gt;the chapter on &lt;em&gt;Why is Gender Diversity Important?&lt;/em&gt; here (PDF)&lt;/a&gt;, as part of the University of Maryland, Baltimore County’s &lt;em&gt;Ethical and Social Issues in Information Technology&lt;/em&gt; course.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-can-we-do-to-help&quot;&gt;What can we do to help?&lt;/h4&gt;
+
+&lt;p&gt;We believe that a primary cause is perception. A vicious cycle occurs when a gender gap forms, where one group perceives a particular profession as unfavorable. We’ve seen the number of women in STEM (science, technology, engineering and mathematics) on a steady decline since the mid-1980s, and the problem couldn’t become much worse before hitting absolute zero.&lt;/p&gt;
+
+&lt;p&gt;As a sizable event in technology, we found it in part our responsibility to encourage diversity at GDG DevFest The Netherlands. We’ve taken three distinct approaches:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Providing women an extra opportunity to obtain much wanted tickets to increase female attendance;&lt;/li&gt;
+  &lt;li&gt;Arranging for WTM lead Victoria Sinikliyski to address the topic during a heartfelt speech during the afternoon break;&lt;/li&gt;
+  &lt;li&gt;Encouraging women to speak up and be role models to inspire others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This has been made possible through the efforts of our committee members and thanks to the efforts of the following women communities:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Amsterdam-Women-in-Technology/&quot;&gt;Amsterdam Women in Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Geekgirls-Enschede/&quot;&gt;Geekgirls Enschede&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/PyLadiesAMS/&quot;&gt;PyLadies Amsterdam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Women-Techmakers-Dusseldorf/&quot;&gt;Women Techmakers Düsseldorf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Dusseldorf-Girl-Gone-International/&quot;&gt;Düsseldorf Girl Gone International&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/GirlsCodeEU/&quot;&gt;Girls Code Europe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;what-can-you-do-to-help&quot;&gt;What can you do to help?&lt;/h4&gt;
+
+&lt;p&gt;Please be welcoming of diversity! Encourage friends and colleagues to join in community events. By involving women in developer communities we can begin to change the perception of our industry.&lt;/p&gt;
+
+&lt;p&gt;And to women: speak up! Get involved with events like DevFest by submitting an abstract of a topic that you’re passionate about, or volunteer to participate in organizing community events like these. As Chiu-Ki Chen writes in her blog post about Droidcon NYC, &lt;a href=&quot;http://blog.sqisland.com/2015/08/droidcon-nyc-22-percent-female-speakers.html&quot;&gt;there’s no excuse not to&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;on-to-2016&quot;&gt;On to 2016!&lt;/h4&gt;
+
+&lt;p&gt;While our initiatives from this year are paying off already—female attendance has risen from 6% to 18%—we intend to continue to make strides within our communities to close the gender gap.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Sep 2015 19:00:00 +0200</pubDate>
+        <link>/blog/women-techmakers</link>
+        <guid isPermaLink="true">/blog/women-techmakers</guid>
+        
+        
+            
+        
+            
+            <category>en</category>
+            
+        
+      </item>
     
       <item>
         <title>Call for Papers</title>
