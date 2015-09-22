@@ -8,21 +8,33 @@ offers:
   ticketsNumber: "300"
   ribbon: "Gone!"
   buyButtonLink: "https://goo.gl/Hvg2xp"
-  buyButtonText: "They went like hot pancakes!"
+  buyButtonText: "They went like hot cakes!"
   ticketContentList: ["Sold out in a couple of hours!"]
   validFrom: "2015-08-24T10:00"
   validThrough: "2015-08-24T20:00"
   info: "Before 9 October 2015 23:59 or 300 tickets"
  -
   name: "Lazy Bird ticket"
-  price: "This Monday!"
+  price: "Gone too!"
   priceCurrency: ""
-  ticketsNumber: "60"
-  ribbon: "10:00AM"
+  ticketsNumber: "100"
+  ribbon: "Gone!"
   buyButtonLink: "https://goo.gl/Hvg2xp"
-  buyButtonText: "Lazy Bird ticket info!"
-  ticketContentList: ["Registration starts Monday September 21st at 10:00AM sharp!"]
+  buyButtonText: "Not here anymore :-("
+  ticketContentList: ["Gone in 45 minutes!"]
   validFrom: "2015-09-21T10:00"
+  validThrough: "2015-10-09T23:59"
+  info: "Before 9 October 2015 23:59 or 300 tickets"
+ -
+  name: "Final sale!"
+  price: "Soon"
+  priceCurrency: ""
+  ticketsNumber: "50"
+  ribbon: "Soon!"
+  buyButtonLink: "https://goo.gl/Hvg2xp"
+  buyButtonText: "Final sale ticket info!"
+  ticketContentList: ["Your last chance!"]
+  validFrom: "2015-09-28T10:00"
   validThrough: "2015-10-09T23:59"
   info: "Before 9 October 2015 23:59 or 300 tickets"
  # -
