@@ -21,7 +21,7 @@ While opinions may vary, there are a few different reasons why we and others thi
 
 In practice, better balanced product teams tend to produce products with a competitive edge that are suited to a larger portion of the population. 
 
-A more detailed explanation about the diversity of experiences, ideas, and social intelligence, and a detailed response to various criticisms of positive discrimination is addressed in _A Practical Guide to Gender Diversity for Computer Science Faculty_, in chapter 2, _Why is Gender Diversity Important?_ (PDF)](http://www.csee.umbc.edu/courses/undergraduate/CMSC304/Fall2014/PracticalGuideGenderDiversity-Ch2.pdf).
+A more detailed explanation about the diversity of experiences, ideas, and social intelligence, and a detailed response to various criticisms of positive discrimination is addressed in _A Practical Guide to Gender Diversity for Computer Science Faculty_, in chapter 2, [_Why is Gender Diversity Important?_ (PDF)](http://www.csee.umbc.edu/courses/undergraduate/CMSC304/Fall2014/PracticalGuideGenderDiversity-Ch2.pdf).
 
 #### What can we do to help?
 
@@ -48,7 +48,7 @@ This has been made possible through the efforts of our committee members and wit
 
 Please be welcoming of diversity! Encourage friends and colleagues to join in community events. By involving women in developer communities we can begin to change the perception of our industry.
 
-And to women: speak up! Get involved with events like DevFest by submitting an abstract of a topic that you're passionate about, or volunteer to participate in organizing community events like these. As Chiu-Ki Chen writes in her blog post about Droidcon NYC, [there's no excuse not to](http://blog.sqisland.com/2015/08/droidcon-nyc-22-percent-female-speakers.html).
+And to women: speak up! Get involved with events like DevFest by submitting an abstract of a topic that you're passionate about, or volunteer to participate in organizing community events like these. As Chiu-Ki Chan writes in her blog post about Droidcon NYC, [there's no excuse not to](http://blog.sqisland.com/2015/08/droidcon-nyc-22-percent-female-speakers.html).
 
 #### On to 2016!
 
