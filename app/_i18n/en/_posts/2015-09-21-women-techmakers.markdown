@@ -4,6 +4,8 @@ title:  "Changing the Perception of Women in Tech"
 date:   2015-09-21 17:00:00
 isStaticPost: false
 ---
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/not_boyfriends_computer.jpg" style="display:none">
+
 You might have noticed we're promoting tickets for women in tech. Why's that?
 
 #### Women are underrepresented in IT.
