@@ -7,12 +7,13 @@
   group: "Platinum Sponsor"
   class: "main"
   elements:
-    - {name: "Triple IT", description: "Triple IT", link: "http://triple-it.nl/", imageUrl: "triple-it.png"}
+    - {name: "Triple IT", description: "Triple IT - Driven by a passion for technology", link: "http://triple-it.nl/", imageUrl: "triple-it.png"}
 -
   group: "Gold Sponsor"
   class: "gold"
   elements:
     - {name: "The Capitals", description: "The Capitals - Team of digital creatives", link: "http://www.thecapitals.nl/", imageUrl: "thecapitals.png"}
+    - {name: "Qualogy", description: "Qualogy - Quality in information technology", link: "http://www.qualogy.com/devfest/", imageUrl: "qualogy.png"}
 -
   group: "After Party Sponsor"
   class: "gold"
