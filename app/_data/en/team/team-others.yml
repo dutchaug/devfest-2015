@@ -1,0 +1,57 @@
+-
+  id: 20
+  name: "Adolfo"
+  surname: "Benedetti"
+  title: "Organization"
+  company: 30MHz
+  thumbnailUrl: team/AdolfoBenedetti.jpg
+  team: true
+  bio: "Open Source enthusiast and software passionate with 10+ years expertise in web development and Java enterprise solutions, currently exploring the IoT/Web of Things co-founding <a href='https://30mhz.com/'>30MHz</a>. Also an active member of <a href='http://www.gdgnetherlands.org/' >The Google Developer Groups Netherlands</a>."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnetherlands.org/" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AdolfoBenedetti"}
+    - {name: "twitter", link: "https://twitter.com/adben"}
+    - {name: "site", link: "https://30mhz.com/"}
+- 
+  id: 21
+  name: "Rokesh"
+  surname: "Jankie"
+  title: "General Organization"
+  company: QAFE
+  thumbnailUrl: team/RokeshJankie.png
+  team: true
+  bio: "<strong>Tagline</strong><br/>Huge fan of Google and Apple. Love Les Mills Bodypump, love to hang out with family and friends<br/><strong>Introduction</strong><br/>I'm the founder of a product called 'QAFE', it's a platform for creating web applications (see more on <a href='http://www.qafe.com'>http://www.qafe.com</a>). I really like technology and gadgets and I am huge fan of Google. Furthermore, I like hanging out with my wife and son. Also with the family of course. Love photography and watching movies/series. In the spare time I have left, I'm also certified group fitness instructor for <a href='http://www.lesmills.com/netherlands/bodypump/bodypump-group-fitness-class.aspx'>Les Mills BODYPUMP!</a>"
+  ribbon: 
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnetherlands.org/" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RokeshJankie"}
+    - {name: "twitter", link: "https://twitter.com/rjankie"}
+    - {name: "site", link: "http://qafe.com/"}
+- 
+  id: 22
+  name: "Matt"
+  surname: "Feigal"
+  title: "General Organization"
+  company: Google
+  thumbnailUrl: team/MattFeigal.jpg
+  team: true
+  bio: "Matt worked in mobile development and clinical research at Medtronic then innovation projects at IKEA, before realizing he needed an even faster rate of exploration and change! Now, as a Cloud Platform Solution Architect at Google, he helps companies discover how to do cool things that matter and rapidly build systems that scale.<br/><br/>He loves to jump on any chance to go into scary unknown territory and find a good route through it. He's a StartupWeekend veteran, a StartupBootcamp mentor and a founding member of the developer community Appsterdam. Since 2011 one of his contributions to Appsterdam is organizing Guru Sessions in which experts share their tech passion with peers."
+  ribbon: 
+    - {abbr: "Google", title: "Cloud Platform Solution Architect", url: "https://cloud.google.com/" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MatthewFeigal"}
+    - {name: "twitter", link: "https://twitter.com/mattfgl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/matt-feigal/0/10b/51"}
+-
+  id: 23
+  name: Carmen
+  surname: Popoviciu
+  thumbnailUrl: team/CarmenPopoviciu.jpg
+  team: true
+  bio: Carmen is a front-end engineer at ING and the leading lady of the <a href='https://plus.google.com/communities/103800317107611206686'>Dutch AngularJS User Group</a>. She is a happy dev ever since she met Angular and is passionate about its community. She believes in constructive feedback and making the community better by helping others and hopes to one day make a difference for the web with the code she writes."
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/118143942632321563925"}
+    - {name: "twitter", link: "https://twitter.com/CarmenPopoviciu"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=240546411"}
+
