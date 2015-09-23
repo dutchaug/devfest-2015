@@ -47,6 +47,7 @@
   id: 23
   name: Carmen
   surname: Popoviciu
+  company: ING
   thumbnailUrl: CarmenPopoviciu.jpg
   team: true
   bio: Carmen is a front-end engineer at ING and the leading lady of the <a href='https://plus.google.com/communities/103800317107611206686'>Dutch AngularJS User Group</a>. She is a happy dev ever since she met Angular and is passionate about its community. She believes in constructive feedback and making the community better by helping others and hopes to one day make a difference for the web with the code she writes."
