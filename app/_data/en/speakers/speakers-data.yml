@@ -107,7 +107,73 @@
     - {name: "stack-overflow", link: "http://stackoverflow.com/users/209103/"}
     - {name: "github", link: "https://github.com/puf"}
 
-
+#-
+# id: 10
+# name: "Jonathan"
+# surname: "Maldonado Contreras"
+# company: "IceMobile"
+# thumbnailUrl: jonathan.jpg
+# bio: "As a software engineer, I've been working on mobile for about 3 years. I started working with android at the beginning of 2013 in a computer vision project with OpenCV and native development with NDK and JNI. In the middle of 2014 I finished my university degree, developing as a thesis a Game Boy emulator written in C++, and moved to the Netherlands to work in IceMobile. Right now I am developing the ABN AMRO app with more than a million and a half users every day. On a personal level, my goal is to improve my code everyday by learning from great developers."
+# social:
+#    - {name: "twitter", link: "https://twitter.com/Jonazan2"}
+#
+#-
+# id: 11
+# name: "Stefan"
+# surname: "Hogendoorn"
+# company: "Qlouder"
+# thumbnailUrl: stefan_hogendoorn.jpg
+# bio: "Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company. He also coaches new developers and is the lead innovative architect. Stefan has a background in ICT for over 20 years. He has worked (amongst others) on the integration of Google Apps and the Google Cloud Platform, and developed many small and large business apps. Furthermore, he has a lot of experience with cross-disciplinary projects, both national and international. In addition he has a strong online presence and he speaks regularly at events where he shares his knowledge, experience and enthusiasm on (Google) technology with fellow developers around the whole world. As a highly creative technical entrepreneur his motto is: people are fun, but code makes more sense.
+#       <br/>Stefan is one of the two owners of Qlouder, which they founded in 2012. Qlouder currently employs some 15 people. Stefan is very proud of his strong team of passionate experts. The added value of Qlouder is taking care of and guiding the organizational changes that allow people to collaborate better, and with more fun. Last but not least, Stefan is very proud to be a Google Developer Expert for the Google Cloud Platform!"
+# social:
+#    - {name: "twitter", link: "https://twitter.com/Qlouder"}
+#    - {name: "google-plus", link: "https://plus.google.com/+Qlouder"}
+#
+#-
+# id: 12
+# name: "Victoria"
+# surname: "Sinikliyski"
+# company: "droidconGR"
+# thumbnailUrl: victoria.jpg
+# bio: "Victoria studies 2nd year computer science (software engineering, specializing game development) and is in her
+#       2nd year at the conservatory, studying piano and music theory.
+#
+#       She is a certificated dance teacher coaching Latin-American and Ballroom dances, with 5-year experience
+#       along with awards in numerous dance competitions and shows.
+#
+#       Victoria is an official Comenius speaker and representative of Greece in Germany, Estonia and Romania
+#       and speaker for the Women Techmakers and for ACM-W Auth Team in Thessaloniki.
+#       Currently works as a soundtrack composer and level design for a new video game project \"Dragonstone Isle\".
+#       She's also a volunteer at Google developers Thessaloniki and part of the core team of droidconGR."
+#-
+# id: 13
+# name: "Hans"
+# surname: "van der Gragt"
+# company: "Triple IT"
+# thumbnailUrl: hans_vd_gragt.jpg
+# bio: "Originally started as an C++ developer on the Windows platform. Played with M3 and M5 emulator previews for a side project. Started developing for Android when the G1 arrived and never looked back. Learned by making mistakes. Has an interest in creating new and fun designs. These days dividing time 50/50 between the various Triple IT projects and creating the best OTT television experience with Vinson."
+#
+#
+#-
+# id: 14
+# name: "Robert"
+# surname: "Kubus"
+# company: "Google"
+# thumbnailUrl: robert_kubis.jpg
+# bio: "Robert is a Developer Advocate for the Google Cloud Platform based in London, UK, specializing in Container, Storage and Scalable technologies.  Before joining Google, Robert collected over 10 years of experience in Software Development and Architecture. He has driven multiple full-stack application developments at SAP with a passion for distributed systems, containers and databases. In his spare time he enjoys following tech trends & good restaurants, traveling and improving his photographing skills :)"
+# social:
+#  - {name: "twitter", link: "https://twitter.com/hostirosti"}
+#  - {name: "site", link: "http://medium.com/@hostirosti"}
+#
+#-
+# id: 15
+# name: "Shmuela"
+# surname: "Jacobs"
+# company: "500Tech"
+# thumbnailUrl: shmuela_jacobs.jpg
+# bio: "Shmuela Jacobs is a senior front-end developer at 500Tech, a leading Web Development company. She received her M.Sc. in Information Management Engineering from the Technion, Israel Institute of Technology, where she had researched systems modeling languages in collaboration with IBM Research and Israel Aerospace Industries (IAI). This has been a career change for her, after receiving B.Sc. in Physics from the Hebrew University of Jerusalem, Israel. Shmuela has gained experience in several software development environments and languages (C++, JAVA, Python) as a researcher at the Technion and a software engineer at Intel’s Israel Development Center. At 500Tech she fulfills both her passions: developing AngularJS Web Applications and singing in a band. She currently resides in Tel Aviv with her husband Haggai, their deaf dog Ziggi, and their one-eyed cat Franco."
+# social:
+#  - {name: "linkedin", link: "https://il.linkedin.com/in/shmuelaj"}
 
 #-
 #  id: 4
