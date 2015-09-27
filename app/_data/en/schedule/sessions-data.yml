@@ -10,7 +10,7 @@
   title: "Opening and Welcome"
   place: "Catwoman"
   service: true
-  description: "During the opening and welcome you have a chance to meet the organizers and the sponsors and learn more about the person sitting next to you. Furthermore you get the last info on the program and maybe we'll give away some swag as well in this session. Yeah, let's do that!"
+  description: "During the opening and welcome you have a chance to learn about Google Developer Groups, meet the organizers and the sponsors and learn more about the person sitting next to you. Furthermore you get the last info on the program, details on prizes to be won during the day and maybe we'll give away some swag as well during the opening. Yeah, let's do that!"
 
 -
   id: 102
@@ -32,7 +32,7 @@
   title: "After Party"
   place: "Maslow"
   service: true
-  description: "End the day with a good conversation, a beer and a bitterbal + a big swag raffle give away!"
+  description: "End the day with a good conversation, a beer and a bitterbal + a final, &quot;everything must go&quot; swag raffle and announcement of the winners of the various devices!"
 
 -
   id: 105
@@ -40,6 +40,13 @@
   place: ""
   service: true
   description: "The workshop described above will continue in this time slot"
+
+-
+  id: 106
+  title: "[Soon]"
+  place: ""
+  service: true
+  description: "We're still waiting on confirmation from this speaker"
 
 -
   id: 201
@@ -100,7 +107,7 @@
 -
   id: 208
   title: "Firebase: codeless backend for Android"
-  description: "Intro to Firebase, describe features, live-coding an app." 
+  description: "Introduction into Firebase, describing its features and tempting the demo gods by live-coding an app." 
   subtype: presentation
   speakers: [9]
   complexity: "Intermediate"
@@ -108,7 +115,7 @@
 -
   id: 288
   title: "Firebase: codeless backend for Android"
-  description: "Intro to Firebase, describe features, live-coding an app." 
+  description: "In this code lab you'll build a chat application using Firebase. Frank van Puffelen will show you how to interact with Firebase from an Android app. You'll register with Firebase, connect the app to your Firebase app. You'll be able to login with the app, send a chat message and show it on screen. If there's extra time, or if you simply want to focus on connecting your web app with Firebase there's pearls of wisdom in this workshop for you as well." 
   subtype: workshop
   speakers: [9]
   complexity: "Intermediate"
@@ -124,9 +131,9 @@
 -
   id: 299
   title: "Go mobile in Go"
-  description: "With the recent release of Go 1.5, the Go mobile project has made a huge progress in their goal to write mobile applications in Go for both the Android and iOS platform.<br/><br/>This talk will report on the current state of the project, explain the steps to get started, give a short demonstration and discuss the work in progress.<br/><br/>There will be a workshop (with Miguel Eduardo Gil Biraud) later that day to help you get started in building one of the example applications."
+  description: "With the recent release of Go 1.5, the Go mobile project has made a huge progress in their goal to write mobile applications in Go for both the Android and iOS platform.<br/><br/>This  workshop (with Miguel Eduardo Gil Biraud) will help you get started in building one of the example applications."
   subtype: workshop
-  speakers: [17,22]
+  speakers: [17]
   complexity: "Intermediate"
 
 -
