@@ -9,6 +9,11 @@
     - {title: "Workshop room 2", color: "#a64dff"}
   timeslots:
     - {
+    	startTime: "9:00",
+    	endTime: "10:00",
+        sessionIds: [100]
+    }
+    - {
     	startTime: "10:00",
     	endTime: "10:20",
         sessionIds: [101]
