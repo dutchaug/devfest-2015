@@ -6,8 +6,9 @@
   title: "Developer Programs Engineer"
   bio: "Ben is a Developer Programs Engineer at Google located in London. Here he works to make Android Developer’s live better. Since 2009 he involved with Android, creating apps for several companies and organizations. Ben used to organize the Berlin Android community, co-organized several bigger events and presented on various Android related topics. Recently Ben developed Topeka for Android, a material design showcase. Further Ben is the developer behind the Crouton library for Android and held a Guinness World Record."
   thumbnailUrl: BenWeiss.jpg
-  rockstar: true
-  social: 
+  ribbon:
+    - {abbr: "Google", title: "Google Engineer", url: "https://developers.google.com"}
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+BenjaminWeiss"}
     - {name: "twitter", link: "https://twitter.com/keyboardsurfer"}
 -
@@ -18,7 +19,6 @@
   title: "Software developer"
   bio: "Christopher began working as a mobile developer ten years ago in Glasgow, Scotland where he had the joy of working with the Windows Mobile and BlackBerry platforms.<br/><br/> After moving to Germany in 2009, he built Android apps at Deutsche Telekom for various European T-Mobile services.  Currently he works at iosphere in Cologne where he helps to create award-winning mobile apps for Android and iOS.<br/><br/> As a member of the Jenkins project, Christopher has created and maintains several Android-related plugins, and contributes to a number of others."
   thumbnailUrl: ChristopherOrr.jpg
-  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ChristopherOrr"}
     - {name: "twitter", link: "https://twitter.com/orrc"}
@@ -30,7 +30,6 @@
   company: "Big Nerd Ranch"
   bio: "Chris Stewart is the Director of the Android team at Big Nerd Ranch and has been an Android developer since Gingerbread was the new kid on the block. He is a senior Android instructor and a coauthor of Android Programming: The Big Nerd Ranch Guide. Chris is dedicated to constant improvement and works to perfect his craft as much as possible."
   thumbnailUrl: chris_stewart.jpg
-  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/Cstew"}
 
@@ -41,7 +40,6 @@
   company: "GetSocial"
   bio: "Vitaliy is a mobile developer, public speaker and community manager. He is eager about product perfection and scalability. Goes crazy about new IoT devices and Google products. Originally Vitaliy is from Ukraine, where he founded GDG Lviv. Now he is leading a development of the Android, iOS and Unity SDKs at GetSocial, startup based in The Hague. GetSocial is building the cloud-based mobile engagement platform that empowers any app developer with tools to maximise user acquisition, engagement, retention and monetization."
   thumbnailUrl: vitaliy.jpg
-  rockstar: true
   social:
     - {name: "site", link: "http://zasadnyy.com/"}
     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
@@ -54,7 +52,6 @@
   company: "Archilogic"
   bio: "Martin is open source contributor and web evangelist by heart from Zurich with a decade experience from the trenches of software engineering in multiple fields. He works as a software engineer at Archilogic in front- and backend. He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit. Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper."
   thumbnailUrl: martin_naumann.jpg
-  rockstar: true
   social:
     - {name: "site", link: "http://geekonaut.de/"}
     - {name: "twitter", link: "https://twitter.com/g33konaut"}
@@ -67,7 +64,6 @@
   company: ""
   bio: "Gerard is a multi-talented Computer Science Engineer specialised in Web. He is now an AngularJS fanboy and a community activist fighting for the JavaScript revolution. He has lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. He is always up for a good challenge. He enjoys running AngularJS Labs London, mentoring AngularJS students, participating in the community, giving talks and writing technical articles at Medium. "
   thumbnailUrl: gerard_sans.jpg
-  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/117176235968324959535"}
     - {name: "twitter", link: "https://twitter.com/gerardsans"}
@@ -80,7 +76,8 @@
   company: "Google"
   bio: "Frank is an engineer for Firebase at Google. He helps developers build extraordinary apps that use Firebase as their back-end. If you've ever asked a Firebase question on StackOverflow, you've probably met Frank already."
   thumbnailUrl: frank_puffelen.jpg
-  rockstar: true
+  ribbon:
+    - {abbr: "Google", title: "Google Engineer", url: "https://developers.google.com"}
   social:
     - {name: "twitter", link: "https://twitter.com/puf"}
     - {name: "stack-overflow", link: "http://stackoverflow.com/users/209103/"}
@@ -104,6 +101,8 @@
   company: "Qlouder"
   thumbnailUrl: stefan_hogendoorn.jpg
   bio: "Stefan Hogendoorn is driven by technique and has a passion for Cloud Computing. At Qlouder he is responsible for all technical aspects during projects as Chief Geek of the company. He also coaches new developers and is the lead innovative architect. Stefan has a background in ICT for over 20 years. He has worked (amongst others) on the integration of Google Apps and the Google Cloud Platform and developed many small and large business apps. Furthermore he has a lot of experience with cross-disciplinary projects, both national and international. In addition he has a strong online presence and he speaks regularly at events where he shares his knowledge, experience and enthusiasm on (Google) technology with fellow developers around the whole world. As a highly creative technical entrepreneur his motto is: people are fun, but code makes more sense.<br/><br/>Stefan is one of the two owners of Qlouder, which they founded in 2012. Qlouder currently employs some 15 people. Stefan is very proud of his strong team of passionate experts. The added value of Qlouder is taking care of and guiding the organizational changes that allow people to collaborate better, and with more fun. Last but not least, Stefan is very proud to be a Google Developer Expert for the Google Cloud Platform!"
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/stefan-hogendoorn"}
   social:
     - {name: "twitter", link: "https://twitter.com/Qlouder"}
     - {name: "google-plus", link: "https://plus.google.com/+Qlouder"}
@@ -115,6 +114,8 @@
   company: "droidconGR"
   thumbnailUrl: victoria.jpg
   bio: "Victoria studies 2nd year computer science (software engineering, specializing game development) and is in her 2nd year at the conservatory, studying piano and music theory. She is a certificated dance teacher coaching Latin-American and Ballroom dances, with 5-year experience along with awards in numerous dance competitions and shows.Victoria is an official Comenius speaker and representative of Greece in Germany, Estonia and Romania and speaker for the Women Techmakers and for ACM-W Auth Team in Thessaloniki. Currently she works as a soundtrack composer and level design for a new video game project &quot;Dragonstone Isle&quot;. She's also a volunteer at Google developers Thessaloniki and part of the core team of droidconGR."
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/103424383114732336071/"}
 
 -
   id: 13
@@ -127,12 +128,12 @@
 -
   id: 14
   name: "Robert"
-  surname: "Kubus"
+  surname: "Kubis"
   company: "Google"
   thumbnailUrl: robert_kubis.jpg
   bio: "Robert is a Developer Advocate for the Google Cloud Platform based in London, UK, specializing in Container, Storage and Scalable technologies.  Before joining Google, Robert collected over 10 years of experience in Software Development and Architecture. He has driven multiple full-stack application developments at SAP with a passion for distributed systems, containers and databases. In his spare time he enjoys following tech trends & good restaurants, traveling and improving his photographing skills :)"
   ribbon:
-    - {abbr: "DevRel", title: "Google Developer Relations", url: "https://www.youtube.com/user/GoogleDevelopers"}
+    - {abbr: "Google", title: "Google Developer Relations", url: "https://www.youtube.com/user/GoogleDevelopers"}
   social:
    - {name: "twitter", link: "https://twitter.com/hostirosti"}
    - {name: "site", link: "http://medium.com/@hostirosti"}
@@ -156,7 +157,7 @@
   bio: "<p>Kars Veling studied Computer Science and Business School at University Twente, and founded <a href='http://q42.nl'>Q42</a> in 2000.</p><p>Kars is currently CTO of Q42, which employs 50 engineers at the moment. He founded Q42 to create a company that would be cool and interesting enough for himself to work for (In that time, a lot of boring, accountant-steered companies were selling warm IT bodies to customers). Q42's tagline then was 'The User Friendly Internet' which is still standing strong today.</p><p>Kars is both a Software Engineer and a Business Engineer. He played key roles in -amongst others- the technical architecture for the Philips HUE Project, Staatsloterij, Schooltas and D-reizen.</p>"
   thumbnailUrl: KarsVeling.jpg
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/kars-veling"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+KarsVeling"}
     - {name: "twitter", link: "https://twitter.com/karsveling"}
@@ -199,6 +200,8 @@
   title: "Cloud Platform Solution Architect"
   bio: '<p>Matt worked in mobile development and clinical research at Medtronic then innovation projects at IKEA, before realizing he needed an even faster rate of exploration and change! Now, as a Cloud Platform Solution Architect at Google, he helps companies discover how to do cool things that matter and rapidly build systems that scale.<br/><br/>He loves to jump on any chance to go into scary unknown territory and find a good route through it. He is a <a href="http://amsterdam.startupweekend.org/">StartupWeekend</a> veteran, a <a href="http://www.startupbootcamp.org/accelerator/amsterdam.html">StartupBootcamp</a> mentor and a founding member of the developer community Appsterdam. Since 2011 one of his contributions to <a href="http://appsterdam.rs/">Appsterdam</a> is organizing <a href="http://www.meetup.com/Appsterdam/">Guru Sessions</a> in which experts share their tech passion with peers.</p>'
   thumbnailUrl: MattFeigal.jpg
+  ribbon:
+    - {abbr: "Google", title: "Google Engineer", url: "https://developers.google.com/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MatthewFeigal"}
     - {name: "twitter", link: "https://twitter.com/mattfgl"}
@@ -212,9 +215,7 @@
   company: "The Things Network"
   # title: ""
   # bio: ""
-  # thumbnailUrl: MattFeigal.jpg
-  # social:
-  #   - {name: "google-plus", link: "https://plus.google.com/+MatthewFeigal"}
+  # thumbnailUrl: 
   
 - 
   id: 21
@@ -223,9 +224,7 @@
   company: "Marktplaats"
   # title: ""
   # bio: ""
-  # thumbnailUrl: MattFeigal.jpg
-  # social:
-  #   - {name: "google-plus", link: "https://plus.google.com/+MatthewFeigal"}
+  # thumbnailUrl: 
   
 - 
   id: 22
@@ -234,9 +233,7 @@
   company: ""
   # title: ""
   # bio: ""
-  # thumbnailUrl: MattFeigal.jpg
-  # social:
-  #   - {name: "google-plus", link: "https://plus.google.com/+MatthewFeigal"}
+  # thumbnailUrl: 
   
 #-
 #  id: 4
