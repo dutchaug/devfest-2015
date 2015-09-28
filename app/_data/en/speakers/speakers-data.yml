@@ -217,16 +217,16 @@
 #   bio: "Software architect and developer from Amsterdam, The Netherlands, but likes working remote. I have a background in industrial engineering and experience in strategy consulting. My expertise in event-driven architectures and real-time data processing is applied in products and services in professional sports timing as well as tech lead at <a href='http://thethingsnetwork.org/'>The Things Network</a>."
 #   thumbnailUrl: JohanStokking.jpg
 #
-# -
-#   id: 21
-#   name: "Maarten"
-#   surname: "Verbaarschot"
-#   company: "Marktplaats"
-#   title: "Front-end Developer"
-#   bio: "Maarten Verbaarschot is a frontend developer at <a href='http://marktplaats.nl/'>Marktplaats</a>. He specializes in frontend architecture, single page apps and AngularJS."
-#   thumbnailUrl: MaartenVerbaarschot.jpg
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/117898593926559748909"}
+-
+   id: 21
+   name: "Maarten"
+   surname: "Verbaarschot"
+   company: "Marktplaats"
+   title: "Frontend Developer"
+   bio: "Maarten Verbaarschot is a frontend developer at Marktplaats. He specializes in frontend architecture, and [insert latest booming JS framework]."
+   thumbnailUrl: MaartenVerbaarschot.jpg
+   social:
+     - {name: "google-plus", link: "https://plus.google.com/117898593926559748909"}
     
 #-
 #  id: 4
