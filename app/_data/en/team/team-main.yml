@@ -66,10 +66,10 @@
   name: "Johan"
   surname: "Pelgrim"
   title: "General Organization"
-  company: VX Company
+  company: Codestone
   thumbnailUrl: JohanPelgrim.jpg
   team: true
-  bio: "Johan is a developer and team player in heart and soul and is working as Mobile Software Engineer at <a href='http://www.vxcompany.com'>VX Company</a>. With a strong Enterprise Java background Johan has made the switch to full time Android developer in 2011 and fell in love with his new role from day one. Since then Johan worked on Android apps for <a href='https://play.google.com/store/apps/details?id=com.lenbrook.sovi.bluesound'>Bluesound</a>, <a href='http://www.point2share.nl/'>Point2Share Meetings</a> and <a href='http://news.point2share.nl/'>Point2Share News</a> and is currently working in the <a href='https://play.google.com/store/apps/details?id=com.icemobile.albertheijn'>Appie</a> team at Ahold.<br/><br/>Johan is co-founder of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a> where Android professionals can meet and share knowledge on their monthly meetups. With Android as work and hobby the rest of his time is devoured by his wife, two daughters and son. With the slogan 'sleeping is for sissies' Johan likes to watch movies and TV shows, play a tune on the piano or guitar and sing along (the latter when no one's around) and likes to read a good book."
+  bio: "Johan is a Freelance Android developer, community manager and team player in heart and soul. With a strong Enterprise Java background Johan has made the switch to full time Android developer in 2011 and fell in love with the Android ecosystem from day one. Since then Johan worked on Android apps for <a href='https://play.google.com/store/apps/details?id=com.lenbrook.sovi.bluesound'>Bluesound</a>, <a href='http://www.point2share.nl/'>Point2Share Meetings</a> and <a href='http://news.point2share.nl/'>Point2Share News</a> and is currently working in the <a href='https://play.google.com/store/apps/details?id=com.icemobile.albertheijn'>Appie</a> team at Albert Heijn Online.<br/><br/>Johan is the founder father of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a> where Android professionals can meet and share knowledge on their monthly meetups. With Android as work and hobby the rest of his time is devoured by his wife, two daughters and son. With the slogan 'sleeping is for sissies' Johan likes to read a good book, watch movies and TV shows, play a tune on the piano or guitar and sing along (the latter when no one's around)."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
   social: 
@@ -77,6 +77,7 @@
     - {name: "twitter", link: "https://twitter.com/jowipe"}
     - {name: "github", link: "https://github.com/jpelgrim"}
     - {name: "linkedin", link: "http://nl.linkedin.com/in/johanpelgrim/"}
+    - {name: "site", link: "http://www.codestone.nl"}
 - 
   id: 6
   name: "Paul"
