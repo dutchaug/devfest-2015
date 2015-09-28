@@ -5,5 +5,5 @@ typeoutTextValues: '"", "The Netherlands", "Amsterdam"'
 typeoutFallback: "Season"
 buttons:
  - {permalink: "/#tickets", text: "Ticket info"}
- - {permalink: "/speakers", text: "Speaker info"}
+ - {permalink: "/schedule", text: "Program info"}
 # - {link: "mailto:info@devfest.nl?subject=I+am+interested+in+sponsoring+the+GDG+DevFest+2015", text: "Become a sponsor"}

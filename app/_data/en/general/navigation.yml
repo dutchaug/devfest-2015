@@ -4,7 +4,7 @@ links:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#partners", text: "Partners"}
  - {permalink: "/afterparty/", text: "After Party"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
