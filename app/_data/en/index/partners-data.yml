@@ -27,6 +27,7 @@
     - {name: "Luminis", description: "Luminis - Conversing Worlds", link: "https://arnhem.luminis.eu/", imageUrl: "luminis.jpg"}
     - {name: "Uniface", description: "Uniface - Advanced Development Technology", link: "http://www.uniface.com/", imageUrl: "uniface.png"}
     - {name: "Us Media", description: "Us Media - Creative Digital Agency", link: "http://www.usmedia.nl/", imageUrl: "usmedia.png"}
+    - {name: "Albert Heijn Online", description: "Albert Heijn Online - Work to impact everday life", link: "http://www.ah.nl/", imageUrl: "ah.png"}
 - 
   group: "Bronze Sponsor"
   class: "bronze"
