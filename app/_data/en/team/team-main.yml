@@ -1,0 +1,106 @@
+- 
+  id: 1
+  name: "Hugo"
+  surname: "Visser"
+  title: "Android Program Committee"
+  company: Little Robots
+  thumbnailUrl: HugoVisser.jpg
+  team: true
+  bio: "Hugo has over 15 years of experience as a software engineer, ranging from server side to desktop and from web to mobile. Since the original announcement he closely follows the developments of the Android platform which resulted in his first app in 2009, Rainy Days, which has since been downloaded over 1.000.000 times worldwide. In 2014 he took the next step by starting his own company <a href='http://littlerobots.nl/'>Little Robots</a> that focuses on apps and other clever uses of the Android platform. Hugo is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+HugoVisser"}
+    - {name: "twitter", link: "https://twitter.com/botteaap"}
+    - {name: "site", link: "http://littlerobots.nl/"}
+- 
+  id: 2
+  name: "Ernest"
+  surname: "Micklei"
+  title: "Web Program Committee"
+  company: bol.com
+  thumbnailUrl: ErnestMicklei.jpg
+  team: true
+  bio: "Ernest Micklei holds the position of Senior Software Architect at <a href='http://bol.com'>bol.com</a> and has 20+ years of experience in Software Design, Development and Architecture. At bol.com, the largest e-commerce company of the Netherlands, he is responsible for the design and architecture of all internal and external Web Services. In addition, he is working with our operations staff to improve and investigate performance issues related to our Java-based applications and Services. He is currently active in High Performance Websites, REST services and NoSQL and is exited about <a href='http://golang.org/'>Google Go</a>. His contributions to the open-source community can be found at <a href='http://github.com/emicklei'>github.com/emicklei</a> and <a href='http://emicklei.googlecode.com'>emicklei.googlecode.com</a>. Ernest blogs at <a href='http://ernestmicklei.com'>ernestmicklei.com</a>."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnetherlands.org/" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+ErnestMicklei"}
+    - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
+    - {name: "site", link: "http://bol.com/"}
+    - {name: "github", link: "https://github.com/emicklei"}
+- 
+  id: 3
+  name: "Wiebe"
+  surname: "Elsinga"
+  title: "Facilities"
+  company: Egeniq
+  thumbnailUrl: WiebeElsinga.jpg
+  team: true
+  bio: "Besides being a Google Developer Expert for Android, I’m also an Android Developer with a passion for UX and design. Basically a EntrepreNerd. Mainly focused on the design and development of mobile applications."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+    - {abbr: "GDE", title: "Android Google Developer Expert", url: "https://developers.google.com/experts/people/wiebe-elsinga" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+WiebeElsinga"}
+    - {name: "twitter", link: "https://twitter.com/welsinga"}
+    - {name: "github", link: "https://github.com/welsinga/"}
+    - {name: "site", link: "http://wiebe-elsinga.com/"}
+- 
+  id: 4
+  name: "Dennis"
+  surname: "Geurts"
+  title: "Tech Support"
+  company: Luminis
+  thumbnailUrl: DennisGeurts.png
+  team: true
+  bio: "Dennis Geurts is a software architect at <a href='http://www.luminis.eu'>Luminis</a>. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/108236118232381198098"}
+    - {name: "twitter", link: "https://twitter.com/dennisgggg"}
+    - {name: "github", link: "https://github.com/dennisg"}
+- 
+  id: 5
+  name: "Johan"
+  surname: "Pelgrim"
+  title: "General Organization"
+  company: VX Company
+  thumbnailUrl: JohanPelgrim.jpg
+  team: true
+  bio: "Johan is a developer and team player in heart and soul and is working as Mobile Software Engineer at <a href='http://www.vxcompany.com'>VX Company</a>. With a strong Enterprise Java background Johan has made the switch to full time Android developer in 2011 and fell in love with his new role from day one. Since then Johan worked on Android apps for <a href='https://play.google.com/store/apps/details?id=com.lenbrook.sovi.bluesound'>Bluesound</a>, <a href='http://www.point2share.nl/'>Point2Share Meetings</a> and <a href='http://news.point2share.nl/'>Point2Share News</a> and is currently working in the <a href='https://play.google.com/store/apps/details?id=com.icemobile.albertheijn'>Appie</a> team at Ahold.<br/><br/>Johan is co-founder of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a> where Android professionals can meet and share knowledge on their monthly meetups. With Android as work and hobby the rest of his time is devoured by his wife, two daughters and son. With the slogan 'sleeping is for sissies' Johan likes to watch movies and TV shows, play a tune on the piano or guitar and sing along (the latter when no one's around) and likes to read a good book."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JohanPelgrim"}
+    - {name: "twitter", link: "https://twitter.com/jowipe"}
+    - {name: "github", link: "https://github.com/jpelgrim"}
+    - {name: "linkedin", link: "http://nl.linkedin.com/in/johanpelgrim/"}
+- 
+  id: 6
+  name: "Paul"
+  surname: "Lammertsma"
+  title: "General Organization"
+  company: Pixplicity
+  thumbnailUrl: PaulLammertsma.jpg
+  team: true
+  bio: "Paul stumbled his way into mobile technologies through studing mobile device interaction and his need to scratch an itch for entrepreneurship. Co-founding <a href='http://pixplicity.com/'>Pixplicity</a> in 2011, Paul has helped grow the company into a familiar name between Dutch app builders, with brands such as De Telegraaf, Consumentenbond and Mercedes-Benz. His passion for Android has always compelled him to share knowledge and keep up with the latest developments, for which he has always been an active memeber of the <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>. He's since become one of the organizers of the GDG, and can frequently be seen giving 'as-technical-as-technically-possible' tech talks at conferences across Europe."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PaulLammertsma"}
+    - {name: "twitter", link: "https://twitter.com/officesunshine"}
+    - {name: "site", link: "http://pixplicity.com/"}
+- 
+  id: 7
+  name: "Quirijn"
+  surname: "Groot Bluemink"
+  bio: "Quirijn is a Mobile software engineer at <a href='https://www.sogeti.nl/'>Sogeti</a> Nederland. He rolled into Android development in 2009 and never looked back. Quirijn loves developing apps that have great impact on daily lives and has contributed to great apps like <a href='https://play.google.com/store/apps/details?id=com.ing.mobile'>ING Bankieren</a> and <a href='https://play.google.com/store/apps/details?id=nl.snsbank.snsbankieren'>SNS Mobiel Bankieren</a>. As an avid community lover he religiously attends Dutch Android User Group events."
+  company: Sogeti
+  thumbnailUrl: Quirijn.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+QuirijnGrootBluemink/"}
+    - {name: "twitter", link: "https://twitter.com/QuirijnGB"}
+    - {name: "site", link: "http://quirijngb.com/"}
