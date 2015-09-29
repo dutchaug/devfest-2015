@@ -2,13 +2,13 @@
   id: 1
   name: "Hugo"
   surname: "Visser"
-  title: "Android Program Committee"
   company: Little Robots
   thumbnailUrl: HugoVisser.jpg
   team: true
   bio: "Hugo has over 15 years of experience as a software engineer, ranging from server side to desktop and from web to mobile. Since the original announcement he closely follows the developments of the Android platform which resulted in his first app in 2009, Rainy Days, which has since been downloaded over 1.000.000 times worldwide. In 2014 he took the next step by starting his own company <a href='http://littlerobots.nl/'>Little Robots</a> that focuses on apps and other clever uses of the Android platform. Hugo is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
   ribbon: 
     - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+    - {abbr: "GDE", title: "Google Developer Expert for Android", url: "https://developers.google.com/experts/people/hugo-visser" }
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+HugoVisser"}
     - {name: "twitter", link: "https://twitter.com/botteaap"}
@@ -17,7 +17,6 @@
   id: 2
   name: "Wiebe"
   surname: "Elsinga"
-  title: "Facilities"
   company: Egeniq
   thumbnailUrl: WiebeElsinga.jpg
   team: true
@@ -34,7 +33,6 @@
   id: 3
   name: "Johan"
   surname: "Pelgrim"
-  title: "General Organization"
   company: Codestone
   thumbnailUrl: JohanPelgrim.jpg
   team: true
@@ -51,7 +49,6 @@
   id: 4
   name: "Paul"
   surname: "Lammertsma"
-  title: "General Organization"
   company: Pixplicity
   thumbnailUrl: PaulLammertsma.jpg
   team: true
@@ -66,7 +63,6 @@
   id: 5
   name: "Dennis"
   surname: "Geurts"
-  title: "Tech Support"
   company: Luminis
   thumbnailUrl: DennisGeurts.png
   team: true
