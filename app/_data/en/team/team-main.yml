@@ -15,22 +15,6 @@
     - {name: "site", link: "http://littlerobots.nl/"}
 - 
   id: 2
-  name: "Ernest"
-  surname: "Micklei"
-  title: "Web Program Committee"
-  company: bol.com
-  thumbnailUrl: ErnestMicklei.jpg
-  team: true
-  bio: "Ernest Micklei holds the position of Senior Software Architect at <a href='http://bol.com'>bol.com</a> and has 20+ years of experience in Software Design, Development and Architecture. At bol.com, the largest e-commerce company of the Netherlands, he is responsible for the design and architecture of all internal and external Web Services. In addition, he is working with our operations staff to improve and investigate performance issues related to our Java-based applications and Services. He is currently active in High Performance Websites, REST services and NoSQL and is exited about <a href='http://golang.org/'>Google Go</a>. His contributions to the open-source community can be found at <a href='http://github.com/emicklei'>github.com/emicklei</a> and <a href='http://emicklei.googlecode.com'>emicklei.googlecode.com</a>. Ernest blogs at <a href='http://ernestmicklei.com'>ernestmicklei.com</a>."
-  ribbon: 
-    - {abbr: "GDG", title: "GDG NL", url: "http://www.gdgnetherlands.org/" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+ErnestMicklei"}
-    - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
-    - {name: "site", link: "http://bol.com/"}
-    - {name: "github", link: "https://github.com/emicklei"}
-- 
-  id: 3
   name: "Wiebe"
   surname: "Elsinga"
   title: "Facilities"
@@ -47,22 +31,7 @@
     - {name: "github", link: "https://github.com/welsinga/"}
     - {name: "site", link: "http://wiebe-elsinga.com/"}
 - 
-  id: 4
-  name: "Dennis"
-  surname: "Geurts"
-  title: "Tech Support"
-  company: Luminis
-  thumbnailUrl: DennisGeurts.png
-  team: true
-  bio: "Dennis Geurts is a software architect at <a href='http://www.luminis.eu'>Luminis</a>. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
-  ribbon: 
-    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/108236118232381198098"}
-    - {name: "twitter", link: "https://twitter.com/dennisgggg"}
-    - {name: "github", link: "https://github.com/dennisg"}
-- 
-  id: 5
+  id: 3
   name: "Johan"
   surname: "Pelgrim"
   title: "General Organization"
@@ -79,7 +48,7 @@
     - {name: "linkedin", link: "http://nl.linkedin.com/in/johanpelgrim/"}
     - {name: "site", link: "http://www.codestone.nl"}
 - 
-  id: 6
+  id: 4
   name: "Paul"
   surname: "Lammertsma"
   title: "General Organization"
@@ -94,7 +63,22 @@
     - {name: "twitter", link: "https://twitter.com/officesunshine"}
     - {name: "site", link: "http://pixplicity.com/"}
 - 
-  id: 7
+  id: 5
+  name: "Dennis"
+  surname: "Geurts"
+  title: "Tech Support"
+  company: Luminis
+  thumbnailUrl: DennisGeurts.png
+  team: true
+  bio: "Dennis Geurts is a software architect at <a href='http://www.luminis.eu'>Luminis</a>. He loves programming for mobile devices (mostly Android) but is also well-versed in OSGi and Java in general. He is also interested in noSQL (CouchDB/ Redis / Riak/ Cassandra) and Node.js. Dennis is also an organizer of <a href='http://www.dutchaug.org'>The Dutch Android User Group</a>, where Android professionals can meet and share knowledge with each other during monthly meetings."
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Dutch Android User Group", url: "http://www.dutchaug.org" }
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/108236118232381198098"}
+    - {name: "twitter", link: "https://twitter.com/dennisgggg"}
+    - {name: "github", link: "https://github.com/dennisg"}
+- 
+  id: 6
   name: "Quirijn"
   surname: "Groot Bluemink"
   bio: "Quirijn is a Mobile software engineer at <a href='https://www.sogeti.nl/'>Sogeti</a> Nederland. He rolled into Android development in 2009 and never looked back. Quirijn loves developing apps that have great impact on daily lives and has contributed to great apps like <a href='https://play.google.com/store/apps/details?id=com.ing.mobile'>ING Bankieren</a> and <a href='https://play.google.com/store/apps/details?id=nl.snsbank.snsbankieren'>SNS Mobiel Bankieren</a>. As an avid community lover he religiously attends Dutch Android User Group events."
