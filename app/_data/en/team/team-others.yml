@@ -26,8 +26,22 @@
     - {name: "twitter", link: "https://twitter.com/ernestmicklei"}
     - {name: "site", link: "http://bol.com/"}
     - {name: "github", link: "https://github.com/emicklei"}
--
+- 
   id: 22
+  name: "Kars"
+  surname: "Veling"
+  company: Q42
+  title: "Google Cloud Program Committee"
+  bio: "<p>Kars Veling studied Computer Science and Business School at University Twente, and founded <a href='http://q42.nl'>Q42</a> in 2000.</p><p>Kars is currently CTO of Q42, which employs 50 engineers at the moment. He founded Q42 to create a company that would be cool and interesting enough for himself to work for (In that time, a lot of boring, accountant-steered companies were selling warm IT bodies to customers). Q42's tagline then was 'The User Friendly Internet' which is still standing strong today.</p><p>Kars is both a Software Engineer and a Business Engineer. He played key roles in -amongst others- the technical architecture for the Philips HUE Project, Staatsloterij, Schooltas and D-reizen.</p>"
+  thumbnailUrl: KarsVeling.jpg
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/kars-veling"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+KarsVeling"}
+    - {name: "twitter", link: "https://twitter.com/karsveling"}
+    - {name: "site", link: "http://q42.nl/"}
+-
+  id: 23
   name: "Adolfo"
   surname: "Benedetti"
   title: "Organization"
@@ -42,7 +56,7 @@
     - {name: "twitter", link: "https://twitter.com/adben"}
     - {name: "site", link: "https://30mhz.com/"}
 - 
-  id: 23
+  id: 24
   name: "Rokesh"
   surname: "Jankie"
   title: "General Organization"
@@ -57,7 +71,7 @@
     - {name: "twitter", link: "https://twitter.com/rjankie"}
     - {name: "site", link: "http://qafe.com/"}
 - 
-  id: 24
+  id: 25
   name: "Matt"
   surname: "Feigal"
   title: "General Organization"
