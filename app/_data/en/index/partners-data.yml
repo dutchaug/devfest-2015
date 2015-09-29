@@ -45,4 +45,4 @@
   elements: 
     - {name: "Egeniq", description: "We are Egeniq. Nice to meet you…", link: "http://www.egeniq.com/", imageUrl: "egeniq.png"}
     - {name: "Amsterdam eWeek", description: "Internationl festival for on-line business, media, marketing and technology.", link: "http://amsterdameweek.nl", imageUrl: "amsterdam-eweek.png"}
-    - {name: "Jetbrains", description: "Jetbrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.svg"}	
+    - {name: "Jetbrains", description: "Jetbrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}	
