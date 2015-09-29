@@ -7,7 +7,7 @@
   group: "Platinum Sponsor"
   class: "main"
   elements:
-    - {name: "Triple IT", description: "Triple IT - Driven by a passion for technology", link: "http://triple-it.nl/", imageUrl: "triple-it.png"}
+    - {name: "Triple IT", description: "Triple IT - Driven by a passion for technology", link: "https://www.triple-it.nl/jobs", imageUrl: "triple-it.png"}
 -
   group: "Gold Sponsors"
   class: "gold"
