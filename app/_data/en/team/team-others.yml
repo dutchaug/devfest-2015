@@ -14,7 +14,6 @@
   id: 21
   name: "Ernest"
   surname: "Micklei"
-  title: "Web Program Committee"
   company: bol.com
   thumbnailUrl: ErnestMicklei.jpg
   team: true
@@ -31,7 +30,6 @@
   name: "Kars"
   surname: "Veling"
   company: Q42
-  title: "Google Cloud Program Committee"
   bio: "<p>Kars Veling studied Computer Science and Business School at University Twente, and founded <a href='http://q42.nl'>Q42</a> in 2000.</p><p>Kars is currently CTO of Q42, which employs 50 engineers at the moment. He founded Q42 to create a company that would be cool and interesting enough for himself to work for (In that time, a lot of boring, accountant-steered companies were selling warm IT bodies to customers). Q42's tagline then was 'The User Friendly Internet' which is still standing strong today.</p><p>Kars is both a Software Engineer and a Business Engineer. He played key roles in -amongst others- the technical architecture for the Philips HUE Project, Staatsloterij, Schooltas and D-reizen.</p>"
   thumbnailUrl: KarsVeling.jpg
   ribbon:
@@ -44,7 +42,6 @@
   id: 23
   name: "Adolfo"
   surname: "Benedetti"
-  title: "Organization"
   company: 30MHz
   thumbnailUrl: AdolfoBenedetti.jpg
   team: true
@@ -59,7 +56,6 @@
   id: 24
   name: "Rokesh"
   surname: "Jankie"
-  title: "General Organization"
   company: QAFE
   thumbnailUrl: RokeshJankie.png
   team: true
@@ -74,7 +70,6 @@
   id: 25
   name: "Matt"
   surname: "Feigal"
-  title: "General Organization"
   company: Google
   thumbnailUrl: MattFeigal.jpg
   team: true
