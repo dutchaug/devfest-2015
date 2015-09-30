@@ -208,15 +208,19 @@
     - {name: "github", link: "https://github.com/mattfeigal"}
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=267901"}
   
-# -
-#   id: 20
-#   name: "Johan"
-#   surname: "Stokking"
-#   company: "The Things Network"
-#   title: "Tech Lead"
-#   bio: "Software architect and developer from Amsterdam, The Netherlands, but likes working remote. I have a background in industrial engineering and experience in strategy consulting. My expertise in event-driven architectures and real-time data processing is applied in products and services in professional sports timing as well as tech lead at <a href='http://thethingsnetwork.org/'>The Things Network</a>."
-#   thumbnailUrl: JohanStokking.jpg
-#
+-
+   id: 20
+   name: "Johan"
+   surname: "Stokking"
+   company: "The Things Network"
+   title: "Tech Lead"
+   bio: "Johan is a tech entrepreneur from Amsterdam, The Netherlands. Expertise in event-driven architectures and real-time data processing is applied in products and services in professional sports timing as well as The Things Network that deploys an open, crowd sourced, community-driven, decentralized internet of things data network. This talk will about The Things Network: its foundation, open source vision, technology and why and how we use Golang as our primary language."
+   thumbnailUrl: JohanStokking.jpg
+   social:
+     - {name: "site", link: "http://thethingsnetwork.org"}
+     - {name: "linkedin", link: "https://nl.linkedin.com/in/johanstokking"}
+
+
 -
    id: 21
    name: "Maarten"
