@@ -38,7 +38,7 @@
   class: "bronze"
   elements: 
     - {name: "Minor", description: "de Minor Programmeren van de Universiteit van Amsterdam", link: "http://www.mprog.nl/cursussen/", imageUrl: "minor.png"}
-    - {name: "500Tech", description: "Leading AngularJS Consultancy in Israel", link: "http://www.500tech.com/", imageUrl: "500Tech-logo.png"}
+    - {name: "500Tech", description: "500Tech - Leading AngularJS Consultancy in Israel", link: "http://www.500tech.com/", imageUrl: "500Tech-logo.png"}
 - 
   group: "Partners"
   class: "bronze"
