@@ -3,6 +3,7 @@ layout: post
 title:  "Changing the Perception of Women in Tech"
 date:   2015-09-21 17:00:00
 isStaticPost: false
+image: not_boyfriends_computer.jpg
 ---
 You might have noticed we're promoting tickets for women in tech. Why's that?
 
@@ -43,8 +44,6 @@ This has been made possible through the efforts of our committee members and wit
 * [Girls Code Europe](http://www.meetup.com/GirlsCodeEU/)
 
 #### What can you do to help?
-
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/not_boyfriends_computer.jpg" style="float:right;width:35%;margin:0 0 0 16px;">
 
 Please be welcoming of diversity! Encourage friends and colleagues to join in community events. By involving women in developer communities we can begin to change the perception of our industry.
 
