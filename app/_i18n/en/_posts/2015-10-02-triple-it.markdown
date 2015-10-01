@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Triple IT: driven by a passion for technology"
+date:   2015-10-02 9:00:00
+isStaticPost: false
+image: triple-it.jpg
+---
+
+#### Introduction
+
+As you all might very well know GDG DevFest has always been a free event and as far as Google is concerned and as long as we can find community friendly sponsors we can continue to organize regular meetups and keep our ever growing GDG DevFest free. We'd like to highlight and thank Triple IT for supporting this event as Platinum Sponsor. On behalf of the organizing team and our attendees we want to say thanks much for your support in making this the best... DevFest... EVER!
+
+#### About Triple IT
+
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/TripleIT_Pand.jpg" align="right" style="padding-top:0px;padding-left:20px;margin-top:0px"> At Triple IT we are driven by a passion for technology and innovation. We create our products from an intrinsic motivation and belief. Our service is complete: from concept and strategy to design; from apps to optimization, Virtual Reality and from maintenance to hosting.
+
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/TripleIT_Oculus.jpg" align="left" style="padding-top:5px;padding-right:20px;margin-top:0px"> Converting video formats, streaming over wireless/fixed networks and creating innovative multimedia applications are fields in which Triple IT excels. Creativity and ingenuity are vital components when we join forces with other global partners such as Vodafone (My Vodafone), RTL (Telekids XL, Videoland, Dance Dance Dance), Heineken (hosting and Virtual Reality) and Talpa (Utopia) to create new products and services. 
+
+With more than 100 enthusiastic colleagues, Triple IT is a lab for innovation to inspire our partners and create products and services we love ourselves. More than an ambition, it is a mindset. One that also makes us a fan and proud supporter of the GDG DevFest 2015.
+
+<img class="img-responsive" src="{{ site.baseurl }}/img/posts/TripleIT_FIFA.jpg">
+
+####Building Utopia
+
+*3:20-4:00pm in Catwoman*
+
+_"<a href="http://www.utopiatv.nl">Utopia</a> is a very popular real life TV show in The Netherlands and is produced by Talpa. Triple IT built the companion app where you can keep an eye on the inhabitants via various live video streams. In this presentation I'll show you how they have build the Utopia companion app, taking into account a roll out into several countries."_ Learn all about the nitty gritty, the pitfalls and the various technological challenges and their solutions in Hans's case study session about building Utopia.
+
+####Hans van der Gragt
+
+<img src="{{ site.baseurl }}/img/posts/hans.jpg" align="right" style="margin-top:-20px; margin-left:10px"> Hans originally started as a C++ developer on the Windows platform. He played with M3 and M5 emulator previews for a side project. Hans started developing for Android when the G1 arrived and never looked back. He learned by making mistakes. Hans has an interest in creating new and fun designs. These days Hans needs to split his time between the various Triple IT projects and creating the best OTT television experience with Vinson.
