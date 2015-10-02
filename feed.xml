@@ -5,9 +5,48 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 02 Oct 2015 09:27:15 +0200</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2015 09:27:15 +0200</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2015 11:32:21 +0200</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2015 11:32:21 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Triple IT: driven by a passion for technology</title>
+        <description>&lt;h4 id=&quot;introduction&quot;&gt;Introduction&lt;/h4&gt;
+
+&lt;p&gt;As you all might very well know GDG DevFest has always been a free event and as far as Google is concerned and as long as we can find community friendly sponsors we can continue to organize regular meetups and keep our ever growing GDG DevFest free. We’d like to highlight and thank Triple IT for supporting this event as Platinum Sponsor. On behalf of the organizing team and our attendees we want to say thanks much for your support in making this the best… DevFest… EVER!&lt;/p&gt;
+
+&lt;h4 id=&quot;about-triple-it&quot;&gt;About Triple IT&lt;/h4&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/posts/TripleIT_Pand.jpg&quot; align=&quot;right&quot; style=&quot;padding-top:0px;padding-left:20px;margin-top:0px&quot; /&gt; At Triple IT we are driven by a passion for technology and innovation. We create our products from an intrinsic motivation and belief. Our service is complete: from concept and strategy to design; from apps to optimization, Virtual Reality and from maintenance to hosting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/posts/TripleIT_Oculus.jpg&quot; align=&quot;left&quot; style=&quot;padding-top:5px;padding-right:20px;margin-top:0px&quot; /&gt; Converting video formats, streaming over wireless/fixed networks and creating innovative multimedia applications are fields in which Triple IT excels. Creativity and ingenuity are vital components when we join forces with other global partners such as Vodafone (My Vodafone), RTL (Telekids XL, Videoland, Dance Dance Dance), Heineken (hosting and Virtual Reality) and Talpa (Utopia) to create new products and services.&lt;/p&gt;
+
+&lt;p&gt;With more than 100 enthusiastic colleagues, Triple IT is a lab for innovation to inspire our partners and create products and services we love ourselves. More than an ambition, it is a mindset. One that also makes us a fan and proud supporter of the GDG DevFest 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;/img/posts/TripleIT_FIFA.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;building-utopia&quot;&gt;Building Utopia&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;3:20-4:00pm in Catwoman&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“&lt;a href=&quot;http://www.utopiatv.nl&quot;&gt;Utopia&lt;/a&gt; is a very popular real life TV show in The Netherlands and is produced by Talpa. Triple IT built the companion app where you can keep an eye on the inhabitants via various live video streams. In this presentation I’ll show you how they have build the Utopia companion app, taking into account a roll out into several countries.”&lt;/em&gt; Learn all about the nitty gritty, the pitfalls and the various technological challenges and their solutions in Hans’s case study session about building Utopia.&lt;/p&gt;
+
+&lt;h4 id=&quot;hans-van-der-gragt&quot;&gt;Hans van der Gragt&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/hans.jpg&quot; align=&quot;right&quot; style=&quot;margin-top:-20px; margin-left:10px&quot; /&gt; Hans originally started as a C++ developer on the Windows platform. He played with M3 and M5 emulator previews for a side project. Hans started developing for Android when the G1 arrived and never looked back. He learned by making mistakes. Hans has an interest in creating new and fun designs. These days Hans needs to split his time between the various Triple IT projects and creating the best OTT television experience with Vinson.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Oct 2015 11:00:00 +0200</pubDate>
+        <link>/blog/triple-it</link>
+        <guid isPermaLink="true">/blog/triple-it</guid>
+        
+        
+            
+        
+            
+            <category>en</category>
+            
+        
+      </item>
     
       <item>
         <title>Changing the Perception of Women in Tech</title>
