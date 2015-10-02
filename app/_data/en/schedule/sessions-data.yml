@@ -174,7 +174,7 @@
 -
   id: 215
   title: "Building Utopia"
-  description: "Utopia is een real life tv show van Talpa met een companion app waarin live meegekeken kan worden met de bewoners.In de presentatie laat ik zien hoe we Utopia hebben gebouwd, rekening houdend met uitrol in meerdere landen."
+  description: "<a href=''>Utopia</a> is a very popular real life TV show in The Netherlands where you can experience the making of a new society by fifteen Utopians. Utopia is produced by Talpa. Triple IT built the <a href='https://www.triple-it.nl/case/utopia'>companion app</a> where you can keep an eye on the inhabitants via various live video streams. In this presentation I'll show you how we have build the Utopia companion app, taking into account a roll out into several countries."
   subtype: presentation
   speakers: [13]
   complexity: "Intermediate"
