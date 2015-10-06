@@ -47,3 +47,4 @@
     - {name: "Amsterdam eWeek", description: "Internationl festival for on-line business, media, marketing and technology.", link: "http://amsterdameweek.nl", imageUrl: "amsterdam-eweek.png"}
     - {name: "Jetbrains", description: "Jetbrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}	
     - {name: "Q42", description: "Q42", link: "http://q42.nl/vacatures/", imageUrl: "q42.png"}
+    - {name: "OSCON", description: "O'Reilly Open Source convention 26-28 Oct '15 in Amsterdam", link: "http://conferences.oreilly.com/oscon/open-source-eu-2015", imageUrl: "oscon.svg"}

@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Win a free 2-day pass for OSCON"
+date:   2015-10-07 9:00:00
+isStaticPost: false
+image: oscon.png
+---
+
+#### O'Reilly Open Source convention
+
+###### October 26–28, 2015, in Amsterdam
+
+[OSCON](http://conferences.oreilly.com/oscon/open-source-eu-2015) is where all of the pieces come together: developers, innovators, businesspeople, and investors. Dig deep into the business of open source at OSCON, where you'll encounter the open source ecosystem in its entirety—the full open source stack—exactly as you approach it in your work. You'll learn about the latest developments, add to your skills, and discover how other people are solving the same problems you're working on.
+
+#### Win a free 2-day pass for OSCON
+
+If you are visiting GDG DevFest The Netherlands this year you have a chance of winning a **free 2-day pass** for OSCON. This is what you need to do the enter the competition:
+
+* You must hold a valid GDG DevFest The Netherlands ticket
+* Tweet why _you_ should get that OSCON ticket using hash-tag #devfestnl and referring [@OSCON](https://twitter.com/oscon)
+* Or post a Google+ post using hash-tag #devfestnl and referring [+oreillymedia](https://plus.google.com/+oreillymedia/posts)
+
+Be original, funny and use a tad of drama (preferably all three!) and maybe you will go to OSCON... for free!
+
+The winner will be picked at DevFest so make sure you show up when entering this competition!
+
+#### 20% discount
+
+If you want to visit OSCON anyway you can use promo code **"devfestnl20"** to get a 20% discount at [registration](https://conferences.oreilly.com/oscon/open-source-eu-2015/public/register)!
