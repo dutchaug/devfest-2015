@@ -125,7 +125,7 @@
   title: "Go mobile in Go"
   description: "With the recent release of Go 1.5, the Go mobile project has made a huge progress in their goal to write mobile applications in Go for both the Android and iOS platform.<br/><br/>This talk will report on the current state of the project, explain the steps to get started, give a short demonstration and discuss the work in progress.<br/><br/>There will be a workshop (with Miguel Eduardo Gil Biraud) later that day to help you get started in building one of the example applications."
   subtype: presentation
-  speakers: [17]
+  speakers: [17,22]
   complexity: "Intermediate"
 
 -
@@ -133,7 +133,7 @@
   title: "Go mobile in Go"
   description: "With the recent release of Go 1.5, the Go mobile project has made a huge progress in their goal to write mobile applications in Go for both the Android and iOS platform.<br/><br/>This  workshop (with Miguel Eduardo Gil Biraud) will help you get started in building one of the example applications."
   subtype: workshop
-  speakers: [17]
+  speakers: [17,22]
   complexity: "Intermediate"
 
 -

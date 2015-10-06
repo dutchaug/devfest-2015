@@ -231,7 +231,23 @@
    thumbnailUrl: MaartenVerbaarschot.jpg
    social:
      - {name: "google-plus", link: "https://plus.google.com/117898593926559748909"}
-    
+
+-
+   id: 22
+   name: "Miguel Eduardo"
+   surname: "Gil Biraud"
+   company: ""
+   title: "Software engineer"
+   bio: "Miguel is a Telecommunication Engineer by degree experienced in software development. When he is not sitting behind a keyboard he enjoys being a public speaker and photographer.
+
+         Originally from Spain where he used to work developing systems to land planes automatically and track vessels in real time, he moved to The Netherlands to work at the European Space Agency building a distributing ground station network for small satellites. Then he decided to stay as a freelancer and is currently working for an adtech company.
+
+         He has a strong interest in backend development, networks, devops, distributed systems, travelling and foreign languages. Working as a gopher for the last two years, he has come to appreciate the simplicity of the language and how easy is to become productive in it."
+   thumbnailUrl: miguel.jpg
+   social:
+     - {name: "google-plus", link: "https://franchu.net/+"}
+     - {name: "twitter", link: "https://twitter.com/mgilbir"}
+
 #-
 #  id: 4
 #  name: "Dmytro"
