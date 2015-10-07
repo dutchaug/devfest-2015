@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Win a free 2-day pass for OSCON"
-date:   2015-10-07 7:00:00
+date:   2015-10-07 6:00:00
 isStaticPost: false
 image: oscon.png
 ---
