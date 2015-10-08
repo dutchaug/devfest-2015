@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Win a free Jetbrains product license"
-date:   2015-10-08 0:00:00
+date:   2015-10-08 6:00:00
 isStaticPost: false
 image: jetbrains.jpg
 ---
