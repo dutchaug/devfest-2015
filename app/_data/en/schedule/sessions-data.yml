@@ -1,22 +1,237 @@
-#-
-#  id: 307
-#  title: "Coffee Break"
-#  place: "Hall"
-#  service: true
-#  description: "The best time to talk with speakers and attendees"
-#-
-#  id: 503
-#  title: "Lunch Break"
-#  place: "Dining room"
-#  service: true
+-
+  id: 100
+  title: "Doors open & registration"
+  place: "Main Hall"
+  service: true
+  description: "We have a lot of goodie bags and t-shirts but not an infinite amount... If you like free stuff, register early!"
+
+-
+  id: 101
+  title: "Opening and Welcome"
+  place: "Catwoman"
+  service: true
+  description: "During the opening and welcome you have a chance to learn about Google Developer Groups, meet the organizers and the sponsors and learn more about the person sitting next to you. Furthermore you get the last info on the program, details on prizes to be won during the day and maybe we'll give away some swag as well during the opening. Yeah, let's do that!"
+
+-
+  id: 102
+  title: "Lunch Break"
+  place: "All over the place"
+  service: true
+  description: "During lunch we will host a barcamp session with sponsor pitches and more"
+  
+-
+  id: 103
+  title: "Afternoon Break"
+  place: "All over the place"
+  service: true
+  description: "The best time to talk with speakers and attendees! During the break, Victoria Sinikliyski of GDG Thessaloniki will uplift the crowd with a motivational speech. At some point we'll gather together to make a group picture."
+  speakers: [12]
+
+-
+  id: 104
+  title: "After Party"
+  place: "Maslow"
+  service: true
+  description: "End the day with a good conversation, a beer and a bitterbal + a final, &quot;everything must go&quot; swag raffle and announcement of the winners of the various devices!"
+
+-
+  id: 105
+  title: "[Continued]"
+  place: ""
+  service: true
+  description: "The workshop described above will continue in this time slot"
+
+-
+  id: 106
+  title: "[Soon]"
+  place: ""
+  service: true
+  description: "We're still waiting on confirmation from this speaker"
+
+-
+  id: 201
+  title: "Meaningful motion"
+  description: "Material design emphasizes using meaningful motion within your UIs. But when should you use it and how can it be implemented? In this session we’ll teach you’ll learn about tools and techniques that help you apply motion design within your app. We’ll cover how to create, choreograph and control sublime animations and transitions from an engineer’s perspective. Above that we’ll use real world examples that you can dive into and learn from."
+  subtype: presentation
+  speakers: [3]
+  complexity: "Advanced"
+
+-
+  id: 202
+  title: "Material Coordination"
+  description: "You want your Android app to be delightful to use. You want your app to feel playful, tactile, as if the whole screen is responding to your actions. Maybe you'd like your Toolbar to respond to scrolling by changing size or hiding. Or perhaps you'd like your floating action button to move out of the way when a Snackbar comes in. Sounds great, but you know what it also sounds like? A lot of work.<br/><br/>Luckily, you have CoordinatorLayout to solve this problem. In this talk, I will demystify this new tool. What does CoordinatorLayout do? When should you use it? How can you customize it?"
+  subtype: presentation
+  speakers: [5]
+  complexity: "Intermediate"
+
+-
+  id: 203
+  title: "Gradle beyond Android. Or going crazy with build tools."
+  description: "Nowadays almost all Android projects are built with Gradle but do you know that Gradle is not only for Android? You can go pretty crazy with it's possibilities.<br/><br/>During the talk, Vitaliy will share his experience with adopting Gradle to manage complex GetSocial SDK build process with Android, iOS and Unity 3D subprojects.<br/><br/>As a bonus, he'll run quick walk through Gradle plugin creation process and tell how you can share it with the world."
+  subtype: presentation
+  speakers: [6]
+  complexity: "Beginner"
+
+-
+  id: 204
+  title: "Getting Started with Continuous Delivery for Android"
+  description: "Continuous delivery is a popular practice in the world of web apps and server software.  This lets companies push new features to customers more quickly, turn around bug fixes faster, and gather user feedback more regularly.  But what about doing this for mobile apps?<br/><br/>Whether you’re working closely with a client who always wants to test the latest build on their phone, or you want to get updates to QA or external beta testers ASAP, being able to automate the build and distribution process entirely is not only a great time-saver, but it also helps to ensure the quality and consistency of your releases.<br/><br/>In this talk we will take a look at how Jenkins, the popular continuous integration server, can help on the path to continuous delivery.  Topics will include automatically setting up Android build machines, ensuring traceability of apps, finding and reporting on potential code problems, running automated app and stress tests, followed by deploying your app — all with minimal effort.<br/><br/>With live demonstrations, we will see that this can be easier to set up than you might think.  Getting your new features into the hands of users should never be more than a `git push` away!"
+  subtype: presentation
+  speakers: [4]
+  complexity: "Intermediate"
+
+-
+  id: 205
+  title: "Go and The Things Network"
+  description: "The Things Network is world's first free, open source, crowdsourced and decentralized internet of things data network. With city-wide coverage in Amsterdam in less than six weeks, we publicly launched end of August 2015. Internet of things communities around the world are now adopting The Things Network to cover their areas and build applications for use cases varying in smart cities, healthcare, logistics and heavy industries. As co-founder and tech lead of The Things Network, I am reponsible for the innovation, scaling and operational maintenance of the network.<br/><br/>In this talk, I will introduce internet of things as of 2015, the vision of The Things Network and its foundation, architectural design decisions (including the reason why we chose Go over other languages) and move to implementation aspects in Go."
+  subtype: presentation
+  speakers: [20]
+  complexity: "Intermediate"
+
+-
+  id: 206
+  title: "Virtual Reality with WebVR and Google Cardboard"
+  description: "With Google Cardboard there's a cheap solution for bringing VR to your users - and it rocks! <br/><br/>In this talk I'll show you how you can build WebGL apps that work nice on mobile and extend them to provide Virtual Reality for Google Cardboard and  WebVR browsers (very, very, VERY experimental Chrome Builds) for the Oculus Rift and what you can do with them.<br/><br/>There shall be live code and a lot of showcase examples"
+  subtype: presentation
+  speakers: [7]
+  complexity: "Intermediate"
+
+-
+  id: 207
+  title: "Profiling tools and performance patterns in Android"
+  description: "Profiling is one of the most important steps in the development cycle of any app. Although this is well known, we as developers usually don’t know the potencial of every tool that we have to help us. In this presentation we would like to introduce the most useful tools at our disposal that we may use to profile the GPU and memory performance, the most typical problems that our apps might have and how to solve them making use of the android performance patterns."
+  subtype: presentation
+  speakers: [10]
+  complexity: "Intermediate"
+
+-
+  id: 208
+  title: "Firebase: codeless backend for Android"
+  description: "Introduction into Firebase, describing its features and tempting the demo gods by live-coding an app." 
+  subtype: presentation
+  speakers: [9]
+  complexity: "Intermediate"
+
+-
+  id: 288
+  title: "Firebase: codeless backend for Android"
+  description: "In this code lab you'll build a chat application using Firebase. Frank van Puffelen will show you how to interact with Firebase from an Android app. You'll register with Firebase, connect the app to your Firebase app. You'll be able to login with the app, send a chat message and show it on screen. If there's extra time, or if you simply want to focus on connecting your web app with Firebase there's pearls of wisdom in this workshop for you as well." 
+  subtype: workshop
+  speakers: [9]
+  complexity: "Intermediate"
+
+-
+  id: 209
+  title: "Go mobile in Go"
+  description: "With the recent release of Go 1.5, the Go mobile project has made a huge progress in their goal to write mobile applications in Go for both the Android and iOS platform.<br/><br/>This talk will report on the current state of the project, explain the steps to get started, give a short demonstration and discuss the work in progress.<br/><br/>There will be a workshop (with Miguel Eduardo Gil Biraud) later that day to help you get started in building one of the example applications."
+  subtype: presentation
+  speakers: [17,22]
+  complexity: "Intermediate"
+
+-
+  id: 299
+  title: "Go mobile in Go"
+  description: "With the recent release of Go 1.5, the Go mobile project has made a huge progress in their goal to write mobile applications in Go for both the Android and iOS platform.<br/><br/>This  workshop (with Miguel Eduardo Gil Biraud) will help you get started in building one of the example applications."
+  subtype: workshop
+  speakers: [17,22]
+  complexity: "Intermediate"
+
+-
+  id: 210
+  title: "Getting started with Angular 2"
+  description: "We don't know when Angular 2 will be released but we know it's going to be *AWESOME*.  In this hands-on session we are going to build a basic application while looking into different Angular 2 features like: bootstrapping, components, services, new template syntax and component routing." 
+  subtype: workshop
+  speakers: [8]
+  complexity: "Intermediate"
+
+-
+  id: 212
+  title: "AppEngine Breakout: extend AppEngine with containers!"
+  description: "Bring your own runtimes to AppEngine, break out of the sandbox and use the libraries you like, provide your own Docker container or let us generate the container for you. Troubleshoot like a boss with live debugging, traces and unified logging. <br/><br/>The latest release of AppEngine helps you increase developer velocity, reduce the time you spend &quot;not-coding&quot;, and lets you use the tooling you prefer. Come check out the latest features in a live demo"
+  subtype: presentation
+  speakers: [19]
+  complexity: "Beginner"
+  track: "Thor"
+
+-
+  id: 213
+  title: "Creating a startup as a Techie: now what?"
+  description: "We live in an amazing era. Wild idea's, great opportunities, global reach and new technology is taking us where we've never been before. Starting new products and building companies around it is getting both easier and harder at the same time.<br/><br/>Techies rule the world as it seems, and how can you as an engineer convert your idea's into a startup? How can you validate that what you have is viable? How do others do this?<br/><br/>This talk is mainly for engineers and entrepreneurial people with idea's, opportunities or starting startups; we'll talk about Google's LaunchPad initiative, stories and guides on how to transform a tech idea into a breathing venture.<br/><br/>As both a tech founder and entrepreneur there is loads to share on how to move from a (technical) idea or mission to a startup or product.<br/><br/>We share on how we at Q42 Ventures convert idea's into ventures using a predefined route and we'll be sharing our lessons learned, the things we did wrong and things that seem to work.<br/><br/>Besides that we will be sharing insights on Google's LaunchPad initiative, how to get in and what I've seen from the startups joining LaunchPads.<br/><br/><strong>*Warning*:</strong> No code here"
+  subtype: presentation
+  speakers: [16]
+  complexity: "Intermediate"
+  track: "Thor"
+
+-
+  id: 214
+  title: "Building robust web apps with Google Cloud Endpoints and AngularJS"
+  description: "This session is designed to show technology enthusiasts how to rapidly build web applications using the Google Cloud Endpoints service and AngularJS. Google Cloud Endpoints are often targeted to mobile developers but offer a lot of functionality to Web(only) developers too. The first part of the presentation focusses on building a basic application creating Google Endpoints and the do’s & don’ts of building with Google Cloud Endpoints. The second part of the session focuses on exposing endpoints to your web application and integrating endpoints into your web app using Angular."
+  subtype: presentation
+  speakers: [11]
+  complexity: "Intermediate"
+  track: "Spiderman"
+
+-
+  id: 215
+  title: "Building Utopia"
+  description: "<a href=''>Utopia</a> is a very popular real life TV show in The Netherlands where you can experience the making of a new society by fifteen Utopians. Utopia is produced by Talpa. Triple IT built the <a href='https://www.triple-it.nl/case/utopia'>companion app</a> where you can keep an eye on the inhabitants via various live video streams. In this presentation I'll show you how we have build the Utopia companion app, taking into account a roll out into several countries."
+  subtype: presentation
+  speakers: [13]
+  complexity: "Intermediate"
+  track: "Catwoman"
+
+-
+  id: 216
+  title: "Building a Design SDK with Polymer"
+  description: "Collaboration between designers and developers is broken. We’re so used to the unidirectional delivery model from designer to developer; the designer draws a picture, the developer builds the things from the picture. But it’s seriously limiting how we iterate. Also our software architecture doesn’t seem to adapt well to the always evolving design vision.<br/><br/>So we’ve been looking for a shared language. Asking designers to write code isn’t the solution. We don’t want designers to worry about technology, which is distracting from the creative process. Style guides don’t solve the problem either, as they rely on you to go hunting for what you need. If it seems faster to reinvent the wheel, people will do exactly that, and you can’t really blame them.<br/><br/>In this presentation I will address how we can:<ul><li>Align design and development vision, and truly iterate on changes together instead of in separate channels.</li><li>Boost each others productivity by moving away from the unidirectional designer-to-developer delivery model.</li></ul>Let’s leverage Polymer to build an SDK that gives designers and developers easy access to just the things they need. Using tools that make it possible for everybody to share with everybody, not limited by design software or the learning curve of technology."
+  subtype: presentation
+  speakers: [21]
+  complexity: "Intermediate"
+  track: "Spiderman"
+
+-
+  id: 217
+  title: "Making the Most of UI-Router"
+  description: "Breaking down a Single Page Application into states is highly advisable, benefiting both the user and the developer. It allows maintaining an organized structure of the application code, increasing productivity and testability. It also enables navigating directly to states, whether static or dynamic, giving the users the option to save and share them.<br/><br/>UI-Router is a routing framework vastly used in AngularJS applications. It is highly flexible, providing several methods for registering states and routing between them. Among its strengths are the abilities to define nested states, control different parts (views) within one state, store visible and hidden state arguments, and perform actions at different routing stages.<br/><br/>In this talk I will share my experience of building and refactoring stateful applications in AngularJS. Presenting several strategies for defining states and performing navigation, we will discuss how different methods may affect further development of the application. I will propose routing best practices, relating to the following cases: nested and sibling states, absolute and relative routing, stateful directives, and navigation-triggered actions."
+  subtype: presentation
+  speakers: [15]
+  complexity: "Intermediate"
+  track: "Spiderman"
+
+-
+  id: 218
+  title: "From Zero to Hero: An Introduction to the Google Cloud Platform"
+  description: "You will be walked through the features of the Google Cloud Platform used in building the Google Cloud Spin demo shown at recent #GCPNext events. The demo uses an orchestrated set of smartphones to capture multi-angle views of an object at the same point in time, upload them to the cloud and have them stitched together in real time to create a single 120-degree snapshot of that moment."
+  subtype: presentation
+  speakers: [14]
+  complexity: "Beginner"
+  track: "Spiderman"
+
+-
+  id: 219
+  title: "Lightning fast cluster computing with the New Google Cloud Dataproc"
+  description: "This session dives into the just announced Cloud Dataproc which will help getting up to speed in the world of Apache Spark and Hadoop. This talk is about introducing Google's latest addition to the Cloud Platform."
+  subtype: presentation
+  speakers: [18]
+  complexity: "Intermediate"
+  track: "Thor"
+  
+-
+  id: 222
+  title: "Fireside Chat"
+  description: "In this informal session we would like to sit by the virtual fireplace and give you the possibility to ask any question to various speakers and sponsors on the fireside panel. If we are just staring at each other the moderator will put an extra woodblock on the fire by posing a taunting statement with the intention to heat up the discussion to a passionate debate. We give away great swag for people contributing to a great conversation."
+  subtype: presentation
+  speakers: []
+  complexity: "Beginner"
+  track: "Thor"
+  
 #-
 #  id: 001
 #  title: "Material design: Visual style and imagery"
 #  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
 #  subtype: workshop
 #  speakers: [3]
-#  language: en
-#  complexity: "Intermediate"
+##  complexity: "Intermediate"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 #-
 #  id: 002
@@ -24,8 +239,7 @@
 #  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
 #  subtype: presentation
 #  speakers: [4, 5]
-#  language: en
-#  complexity: "Intermediate"
+##  complexity: "Intermediate"
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 #-
@@ -34,8 +248,7 @@
 #  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
 #  subtype: presentation
 #  speakers: [4]
-#  language: en
-#  complexity: "Intermediate"
+##  complexity: "Intermediate"
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 #-
 #  id: 004
@@ -53,7 +266,6 @@
 #  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
 #  subtype: keynote
 #  speakers: [7]
-#  language: en
-#  complexity: "Expert"
+##  complexity: "Expert"
 #  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"

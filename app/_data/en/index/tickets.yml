@@ -3,28 +3,40 @@ info: "Tickets grant access to all conference sessions, code labs, lunch and aft
 offers:
  -
   name: "Early Bird ticket"
-  price: "Sold out!"
+  price: "&euro;0,-"
   priceCurrency: ""
   ticketsNumber: "300"
   ribbon: "Gone!"
   buyButtonLink: "https://goo.gl/Hvg2xp"
-  buyButtonText: "They went like hot pancakes!"
+  buyButtonText: "They went like hot cakes!"
   ticketContentList: ["Sold out in a couple of hours!"]
   validFrom: "2015-08-24T10:00"
   validThrough: "2015-08-24T20:00"
-  info: "Before 9 October 2015 23:59 or 300 tickets"
+  info: ""
  -
   name: "Lazy Bird ticket"
-  price: "This Monday!"
+  price: "&euro;0,-"
   priceCurrency: ""
-  ticketsNumber: "60"
-  ribbon: "10:00AM"
+  ticketsNumber: "100"
+  ribbon: "Gone!"
   buyButtonLink: "https://goo.gl/Hvg2xp"
-  buyButtonText: "Lazy Bird ticket info!"
-  ticketContentList: ["Registration starts Monday September 21st at 10:00AM sharp!"]
+  buyButtonText: "Not here anymore :-("
+  ticketContentList: ["Gone in 45 minutes!"]
   validFrom: "2015-09-21T10:00"
   validThrough: "2015-10-09T23:59"
-  info: "Before 9 October 2015 23:59 or 300 tickets"
+  info: ""
+ -
+  name: "JIT Bird ticket"
+  price: "&euro;0,-"
+  priceCurrency: ""
+  ticketsNumber: "30"
+  ribbon: "Soon!"
+  buyButtonLink: "https://goo.gl/Hvg2xp"
+  buyButtonText: "Gone… like the wind"
+  ticketContentList: ["Gone in 60 seconds!"]
+  validFrom: "2015-09-28T10:00"
+  validThrough: "2015-10-09T23:59"
+  info: ""
  # -
  #  name: "Last Chance"
  #  price: "450"

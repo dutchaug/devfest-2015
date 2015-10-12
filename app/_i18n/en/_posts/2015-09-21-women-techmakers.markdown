@@ -3,6 +3,7 @@ layout: post
 title:  "Changing the Perception of Women in Tech"
 date:   2015-09-21 17:00:00
 isStaticPost: false
+image: not_boyfriends_computer.jpg
 ---
 You might have noticed we're promoting tickets for women in tech. Why's that?
 
@@ -21,7 +22,7 @@ While opinions may vary, there are a few different reasons why we and others thi
 
 In practice, better balanced product teams tend to produce products with a competitive edge that are suited to a larger portion of the population. 
 
-A more detailed explanation about the diversity of experiences, ideas, and social intelligence, and a detailed response to various criticisms of positive discrimination is addressed in _A Practical Guide to Gender Diversity for Computer Science Faculty_, in chapter 2, _Why is Gender Diversity Important?_ (PDF)](http://www.csee.umbc.edu/courses/undergraduate/CMSC304/Fall2014/PracticalGuideGenderDiversity-Ch2.pdf).
+A more detailed explanation about the diversity of experiences, ideas, and social intelligence, and a detailed response to various criticisms of positive discrimination is addressed in _A Practical Guide to Gender Diversity for Computer Science Faculty_, in chapter 2, [_Why is Gender Diversity Important?_ (PDF)](http://www.csee.umbc.edu/courses/undergraduate/CMSC304/Fall2014/PracticalGuideGenderDiversity-Ch2.pdf).
 
 #### What can we do to help?
 
@@ -30,7 +31,7 @@ We believe that a primary cause is perception. A vicious cycle occurs when a gen
 As a sizable event in technology, we found it in part our responsibility to encourage diversity at GDG DevFest The Netherlands. We've taken three distinct approaches:
 
 * Providing women an extra opportunity to obtain much wanted tickets to increase female attendance ([the promo code is still available!](https://www.eventbrite.com/e/gdg-devfest-the-netherlands-2015-tickets-18232000404?access=women-in-tech));
-* Arranging for WTM lead Victoria Sinikliyski to address the topic during a heartfelt speech during the afternoon break;
+* Arranging for WTM Thessaloniki member Victoria Sinikliyski to address the topic during a heartfelt speech during the afternoon break;
 * Encouraging women to speak up and be role models to inspire others.
 
 This has been made possible through the efforts of our committee members and with thanks to the following women communities:
@@ -43,8 +44,6 @@ This has been made possible through the efforts of our committee members and wit
 * [Girls Code Europe](http://www.meetup.com/GirlsCodeEU/)
 
 #### What can you do to help?
-
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/not_boyfriends_computer.jpg" style="float:right;width:35%;margin:0 0 0 16px;">
 
 Please be welcoming of diversity! Encourage friends and colleagues to join in community events. By involving women in developer communities we can begin to change the perception of our industry.
 

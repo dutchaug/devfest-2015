@@ -4,9 +4,9 @@ links:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#partners", text: "Partners"}
  - {permalink: "/afterparty/", text: "After Party"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
  - 
@@ -15,7 +15,7 @@ links:
 #    - {link: "https://plus.google.com/102444623953913144164", text: "+GDGLviv"}
 #    - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", text: "@GDGLviv"}
 #    - {link: "https://facebook.com/GDGLviv", text: "GDGLviv"}
-bottomLinks:
- - {permalink: "/#tickets", text: "Ticket info"}
-rightButtons:
- - {permalink: "/#tickets", text: "Ticket info"}
+#bottomLinks:
+# - {permalink: "/#tickets", text: "Ticket info"}
+#rightButtons:
+# - {permalink: "/#tickets", text: "Ticket info"}

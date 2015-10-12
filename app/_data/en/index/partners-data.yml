@@ -7,12 +7,13 @@
   group: "Platinum Sponsor"
   class: "main"
   elements:
-    - {name: "Triple IT", description: "Triple IT", link: "http://triple-it.nl/", imageUrl: "triple-it.png"}
+    - {name: "Triple IT", description: "Triple IT - Driven by a passion for technology", link: "https://www.triple-it.nl/jobs", imageUrl: "triple-it.png"}
 -
-  group: "Gold Sponsor"
+  group: "Gold Sponsors"
   class: "gold"
   elements:
     - {name: "The Capitals", description: "The Capitals - Team of digital creatives", link: "http://www.thecapitals.nl/", imageUrl: "thecapitals.png"}
+    - {name: "Qualogy", description: "Qualogy - Quality in information technology", link: "http://www.qualogy.com/devfest/", imageUrl: "qualogy.png"}
 -
   group: "After Party Sponsor"
   class: "gold"
@@ -25,6 +26,8 @@
     - {name: "Bol.com", description: "Bol.com de winkel van ons allemaal", link: "https://banen.bol.com", imageUrl: "bol-com.jpg"}
     - {name: "Luminis", description: "Luminis - Conversing Worlds", link: "https://arnhem.luminis.eu/", imageUrl: "luminis.jpg"}
     - {name: "Uniface", description: "Uniface - Advanced Development Technology", link: "http://www.uniface.com/", imageUrl: "uniface.png"}
+    - {name: "Us Media", description: "Us Media - Creative Digital Agency", link: "http://www.usmedia.nl/", imageUrl: "usmedia.png"}
+    - {name: "Albert Heijn Online", description: "Albert Heijn Online - Work to impact everday life", link: "http://ah.nl/ftw", imageUrl: "ah.png"}
 - 
   group: "Bronze Sponsor"
   class: "bronze"
@@ -35,9 +38,13 @@
   class: "bronze"
   elements: 
     - {name: "Minor", description: "de Minor Programmeren van de Universiteit van Amsterdam", link: "http://www.mprog.nl/cursussen/", imageUrl: "minor.png"}
+    - {name: "500Tech", description: "500Tech - Leading AngularJS Consultancy in Israel", link: "http://www.500tech.com/", imageUrl: "500Tech-logo.png"}
 - 
   group: "Partners"
   class: "bronze"
   elements: 
     - {name: "Egeniq", description: "We are Egeniq. Nice to meet you…", link: "http://www.egeniq.com/", imageUrl: "egeniq.png"}
     - {name: "Amsterdam eWeek", description: "Internationl festival for on-line business, media, marketing and technology.", link: "http://amsterdameweek.nl", imageUrl: "amsterdam-eweek.png"}
+    - {name: "Jetbrains", description: "Jetbrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.png"}	
+    - {name: "Q42", description: "Q42", link: "http://q42.nl/vacatures/", imageUrl: "q42.png"}
+    - {name: "OSCON", description: "O'Reilly Open Source convention 26-28 Oct '15 in Amsterdam", link: "http://conferences.oreilly.com/oscon/open-source-eu-2015", imageUrl: "oscon.svg"}

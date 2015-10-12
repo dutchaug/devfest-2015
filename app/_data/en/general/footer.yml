@@ -15,6 +15,6 @@ blocks:
   links:
    - {link: "mailto:info@devfest.nl", text: "info@devfest.nl"}
  -
-#  title: "FAQ"
-#  links:
-#   - {permalink: "/cod/", text: "Code of Conduct"}
+   title: "Code of Conduct"
+   links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
