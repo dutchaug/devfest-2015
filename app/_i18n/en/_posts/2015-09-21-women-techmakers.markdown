@@ -48,7 +48,7 @@ This has been made possible through the efforts of our committee members and wit
 
 Please be welcoming of diversity! Encourage friends and colleagues to join in community events. By involving women in developer communities we can begin to change the perception of our industry.
 
-And to women: speak up! Get involved with events like DevFest by submitting an abstract of a topic that you're passionate about, or volunteer to participate in organizing community events like these. As Chiu-Ki Chen writes in her blog post about Droidcon NYC, [there's no excuse not to](http://blog.sqisland.com/2015/08/droidcon-nyc-22-percent-female-speakers.html).
+And to women: speak up! Get involved with events like DevFest by submitting an abstract of a topic that you're passionate about, or volunteer to participate in organizing community events like these. As Chiu-Ki Chan writes in her blog post about Droidcon NYC, [there's no excuse not to](http://blog.sqisland.com/2015/08/droidcon-nyc-22-percent-female-speakers.html).
 
 #### On to 2016!
 
